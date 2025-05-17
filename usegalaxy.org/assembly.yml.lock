@@ -379,6 +379,7 @@ tools:
   - 50b6ec4074f4
   - 5127a713de83
   - 5799092ffdff
+  - 59150c883ed5
   - 690c2caa367e
   - 6ec1b853c8fd
   - 764f2516d837
@@ -416,6 +417,7 @@ tools:
   owner: bgruening
   revisions:
   - 99ddbf037d98
+  - bfab6f5b449d
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: rnaquast
