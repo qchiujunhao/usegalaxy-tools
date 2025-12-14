@@ -6,6 +6,7 @@ tools:
 - name: 2d_simple_filter
   owner: imgteam
   revisions:
+  - 1b7e67168732
   - d51310ab328a
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -38,6 +39,7 @@ tools:
 - name: overlay_images
   owner: imgteam
   revisions:
+  - 66fe62b96281
   - ca362a9bfa20
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
