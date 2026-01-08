@@ -78,6 +78,7 @@ tools:
   - 1e5880498f52
   - 2f901e9402dd
   - b5c3b1856370
+  - b85b9712cb18
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_merge
