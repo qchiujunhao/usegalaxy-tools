@@ -17,6 +17,7 @@ tools:
   - bbf30253c99f
   - c5150cceab47
   - d17e3a1b8659
+  - db9be962dc13
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: tabular_learner
