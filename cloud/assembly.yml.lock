@@ -36,6 +36,7 @@ tools:
 - name: gfastats
   owner: bgruening
   revisions:
+  - 0fe699ced54f
   - 3ef480892a9f
   - 59150c883ed5
   - 764f2516d837
@@ -105,6 +106,7 @@ tools:
   owner: bgruening
   revisions:
   - 5d365d5cbe9d
+  - baf229b1fdfd
   - e5e767089163
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -133,6 +135,7 @@ tools:
 - name: purge_dups
   owner: iuc
   revisions:
+  - bded6226d503
   - e9bd16ba5ebd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
