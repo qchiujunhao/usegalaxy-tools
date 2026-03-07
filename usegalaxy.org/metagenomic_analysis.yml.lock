@@ -28,6 +28,7 @@ tools:
   - 64be1ac21109
   - 8b8a3f793f0f
   - 9553180705b7
+  - a02aa0dfb850
   - e8ac2b53f262
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -503,6 +504,7 @@ tools:
   owner: iuc
   revisions:
   - 95bf7479d53c
+  - a00df747f03c
   - c2803012bbb3
   - fc6c328c292f
   tool_panel_section_id: metagenomic_analysis
@@ -682,6 +684,7 @@ tools:
   - 0b9d4ec77c4f
   - 24488fae5b04
   - 6000b8a8dd9d
+  - 6a067bbd4e16
   - 87064cb77a52
   - d1c93a32cb25
   tool_panel_section_id: metagenomic_analysis
@@ -694,11 +697,13 @@ tools:
   - 847f433f202b
   - b6a38f6222af
   - c0101c72b8af
+  - eed716573aba
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_plot_ordination
   owner: iuc
   revisions:
+  - 2715e89adff4
   - 32f892954ef6
   - 5007bc8a3d90
   - bbd9d1022144
@@ -714,6 +719,7 @@ tools:
   - '817853857084'
   - d6cbeb48294d
   - fb7c4bbe8994
+  - fd170b83f148
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: gtdbtk_classify_wf
@@ -973,6 +979,7 @@ tools:
 - name: iphop_predict
   owner: ufz
   revisions:
+  - be0d13020aec
   - d357350b6da0
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
