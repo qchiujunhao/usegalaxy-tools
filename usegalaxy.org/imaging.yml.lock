@@ -17,6 +17,7 @@ tools:
   owner: imgteam
   revisions:
   - 77f7159d775a
+  - 99e0ef91ea5e
   - b1c2c210813c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -33,6 +34,7 @@ tools:
   owner: imgteam
   revisions:
   - 85edbb7a436b
+  - fa8ce46a95bb
   - fcadded98e61
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -49,6 +51,7 @@ tools:
   revisions:
   - 37662cbf44b8
   - 66fe62b96281
+  - aece93442819
   - bc4cf90cfc3b
   - ca362a9bfa20
   tool_panel_section_id: imaging
@@ -115,6 +118,7 @@ tools:
 - name: spot_detection_2d
   owner: imgteam
   revisions:
+  - 73efacdaf71a
   - d78372040976
   - e8c9e104e109
   tool_panel_section_id: imaging
@@ -122,6 +126,7 @@ tools:
 - name: points_association_nn
   owner: imgteam
   revisions:
+  - e7d22ed256f3
   - f3fad67af22c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -129,5 +134,6 @@ tools:
   owner: imgteam
   revisions:
   - 2dc244356765
+  - c297f2961ee5
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
