@@ -10,6 +10,7 @@ tools:
   - 1588f9076e32
   - 222c02df5d55
   - 4a229a7ad638
+  - 5f9c0e99016f
   - 6fabdcde0214
   - 8334dc98c48e
   - a536d2736c2d
@@ -294,6 +295,7 @@ tools:
   - 6c571966cfb9
   - 7c9417381ad5
   - 9ec9c22767c8
+  - c4fb391275a0
   - ff02cf8f66f0
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
