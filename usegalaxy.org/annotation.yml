@@ -194,3 +194,7 @@ tools:
   owner: iuc
 - name: hmmer_phmmer
   owner: iuc
+- name: remove_terminal_stop_codons
+  owner: iuc
+- name: drhip
+  owner: iuc
