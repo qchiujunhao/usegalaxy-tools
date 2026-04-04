@@ -118,6 +118,7 @@ tools:
 - name: spot_detection_2d
   owner: imgteam
   revisions:
+  - 1a03fcd4fa80
   - 73efacdaf71a
   - d78372040976
   - e8c9e104e109
@@ -210,6 +211,7 @@ tools:
 - name: colorize_labels
   owner: imgteam
   revisions:
+  - 465a08183136
   - 5907be5a8d7c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -306,6 +308,7 @@ tools:
 - name: concat_channels
   owner: imgteam
   revisions:
+  - 42f6ed8b1695
   - 999c5941a6f0
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
