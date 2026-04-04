@@ -195,6 +195,7 @@ tools:
 - name: scipy_sparse
   owner: bgruening
   revisions:
+  - 233aab4c1be8
   - 42b513bed40b
   - 4efac966af2a
   - 6d1a9fae57eb
@@ -221,6 +222,7 @@ tools:
 - name: rdeval
   owner: richard-burhans
   revisions:
+  - 058bb29e28ba
   - 37d67c252fed
   - aef1eea2058c
   - f0409baac2cd
