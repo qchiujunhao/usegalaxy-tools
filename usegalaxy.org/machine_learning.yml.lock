@@ -24,6 +24,7 @@ tools:
 - name: image_learner
   owner: goeckslab
   revisions:
+  - 13b9963b3e24
   - 2c6624cae3c5
   - 8729f69e9207
   - 94cd9ac4a9b1
@@ -298,6 +299,7 @@ tools:
   - 1682b64aad9e
   - 226524df8c6c
   - 2a1afd3481ce
+  - 3ff43fbb7ccf
   - 5bd0866dbc7a
   - 7366e5108e9f
   - 7614281473da
@@ -447,6 +449,7 @@ tools:
   - 87cb9cb44d1f
   - 893285b150f8
   - d3e99d3df1ca
+  - dea38330b78a
   - e76f6dfea5c9
   - fc48ce12454b
   tool_panel_section_id: machine_learning
@@ -478,6 +481,7 @@ tools:
   - 734c66aa945a
   - 8e447b95e6a8
   - 9084156b2bb5
+  - a293d7937700
   - adb084b901cc
   - f0ede473a7e8
   - fb17e19b62a4
@@ -585,6 +589,7 @@ tools:
   revisions:
   - 0af678661e20
   - 2af1346e68c9
+  - 31f6bf2382dc
   - 470aed90aa41
   - 6ecb3d77d46e
   - 818f9b69d8a0
