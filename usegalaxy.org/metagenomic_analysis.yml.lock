@@ -484,6 +484,7 @@ tools:
   - 3548a93b39c1
   - 3725f7f2be35
   - 3b22de20bd4b
+  - 85b2bec21695
   - da787fc8b740
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis

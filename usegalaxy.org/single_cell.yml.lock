@@ -187,6 +187,7 @@ tools:
   - 43cb7b5a6fe7
   - 7e8c677a7b71
   - 8db95f488f0f
+  - 9ef202055d5c
   - be1fdce914c6
   - c4209ea387d4
   - d1e49c3c0aa2
@@ -198,6 +199,7 @@ tools:
 - name: modify_loom
   owner: iuc
   revisions:
+  - 0ee9395e1eb2
   - 0f1aaff9b22d
   - 4b0adaa31c95
   - 4c9fa3c63d9e
@@ -726,6 +728,7 @@ tools:
   revisions:
   - 74fa68f4e579
   - 7704fb998596
+  - 7c728a178c4d
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_plot
