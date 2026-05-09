@@ -55,6 +55,7 @@ tools:
   owner: goeckslab
   revisions:
   - 0ee0bc6736a2
+  - 124eb5e5c5fc
   - 44267c11e02b
   - 4d0d8859a0f2
   - 5a39f429fad1
@@ -68,6 +69,7 @@ tools:
   - 56c4f4c0c6df
   - 65c50cd5aa13
   - 7447ba518af1
+  - 93ebd9b0f159
   - d5d69c29d537
   - dd663701df49
   - e3c63770083d
@@ -76,6 +78,7 @@ tools:
 - name: ludwig_evaluate
   owner: goeckslab
   revisions:
+  - 29ee176f839b
   - 777be50bc321
   - 7cb9e77d9909
   - b58d8857082c
@@ -89,6 +92,7 @@ tools:
   - 11d3377511bb
   - 36c5fcc49286
   - 4bcd6c3a025e
+  - 779d91d78ecf
   - b7ed0e483e4d
   - bf21ab331fe6
   - ec4b9244f930
