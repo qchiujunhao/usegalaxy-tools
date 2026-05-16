@@ -199,6 +199,7 @@ tools:
   owner: bgruening
   revisions:
   - 07843f917990
+  - 0a43c856e1d8
   - 30d21a6041f6
   - 3881482e568e
   - 5a125d1ac9b9
@@ -237,6 +238,7 @@ tools:
   - 02d2be90dedb
   - 0630258dcf35
   - 14fa42b095c4
+  - 4aa3666b66fa
   - 61461e52c923
   - 6d23883e0b94
   - 73d2ef652879
@@ -541,6 +543,7 @@ tools:
   - c2a7717d96ce
   - c2e2aa55dd5c
   - c374098d4f5c
+  - e8694d796a7e
   - eaddff553324
   - f5e6fb49e9ee
   - f73a2b68a37b
