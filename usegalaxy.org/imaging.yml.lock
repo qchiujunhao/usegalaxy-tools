@@ -799,6 +799,7 @@ tools:
   owner: ufz
   revisions:
   - 59f7f9164544
+  - 7e7fc68b169a
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: omero_get_value
@@ -810,6 +811,7 @@ tools:
 - name: omero_import
   owner: ufz
   revisions:
+  - 75c2257023e8
   - c36a954d0e59
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -817,6 +819,7 @@ tools:
   owner: ufz
   revisions:
   - 4dcbcd213ee3
+  - 6a13fe2fa921
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: omero_roi_import
@@ -829,5 +832,6 @@ tools:
   owner: ufz
   revisions:
   - 86d6593f54d8
+  - b5fa5c86de56
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
