@@ -12,6 +12,7 @@ tools:
   - 3719606b94af
   - 375c36923da1
   - 499a039871d0
+  - 73af7d202e2a
   - 871957823d0c
   - 975512caae22
   - a48e750cfd25
@@ -27,6 +28,7 @@ tools:
   owner: goeckslab
   revisions:
   - 13b9963b3e24
+  - 1d0a1899645e
   - 2c6624cae3c5
   - 328ff3a13078
   - 8729f69e9207
@@ -51,6 +53,7 @@ tools:
   - 209b663a4f62
   - 49f73a3c12f3
   - 4bd75b45a7a1
+  - 575cb355247c
   - 8a1c986bb0b0
   - ba45bc057d70
   - bf0df21a1ea3
@@ -82,6 +85,7 @@ tools:
   - 7d78a6afc958
   - 87bc71152366
   - afd0864d18b6
+  - b062aa285e75
   - c5c324ac29fc
   - ccd798db5abb
   - e2a6fed32d54
@@ -115,6 +119,7 @@ tools:
   owner: bgruening
   revisions:
   - 00b2ee48b412
+  - 00d1889e9ecc
   - 01131463df86
   - 0c933465d70e
   - 2a853a2d2e72
@@ -144,6 +149,7 @@ tools:
   - c51571d0a0b1
   - e4af79bffd57
   - f7ecdde4b201
+  - fe0e82a7d0ee
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_batch_models
@@ -199,6 +205,7 @@ tools:
   owner: bgruening
   revisions:
   - 07843f917990
+  - 0a43c856e1d8
   - 30d21a6041f6
   - 3881482e568e
   - 5a125d1ac9b9
@@ -222,6 +229,7 @@ tools:
   - 5d5d9cc554f9
   - 61e76fb65daf
   - 65f18ab91132
+  - 7e5631773cea
   - 805194c3cdfb
   - 845dfafac355
   - 887e0aaa482e
@@ -237,6 +245,7 @@ tools:
   - 02d2be90dedb
   - 0630258dcf35
   - 14fa42b095c4
+  - 4aa3666b66fa
   - 61461e52c923
   - 6d23883e0b94
   - 73d2ef652879
@@ -314,6 +323,7 @@ tools:
   - 1682b64aad9e
   - 226524df8c6c
   - 2a1afd3481ce
+  - 3ff43fbb7ccf
   - 5bd0866dbc7a
   - 7366e5108e9f
   - 7614281473da
@@ -628,6 +638,7 @@ tools:
   - 29200ecec39d
   - 42b513bed40b
   - 4efac966af2a
+  - 602b5fb7ef09
   - 6d1a9fae57eb
   - 92e09b827300
   - 9f9cf31e3111
