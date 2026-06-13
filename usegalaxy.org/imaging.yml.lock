@@ -437,6 +437,7 @@ tools:
   owner: imgteam
   revisions:
   - 69e28b06e027
+  - b63ed4bb2289
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_noise
@@ -508,6 +509,7 @@ tools:
 - name: imagej2_bunwarpj_compare_elastic
   owner: imgteam
   revisions:
+  - c1c7a81ba4e5
   - f9f2d9746a01
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -829,5 +831,6 @@ tools:
   owner: ufz
   revisions:
   - 86d6593f54d8
+  - b5fa5c86de56
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging

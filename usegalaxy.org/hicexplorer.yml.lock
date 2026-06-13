@@ -89,6 +89,7 @@ tools:
   revisions:
   - 30677e95bc89
   - 63c8377c58b3
+  - 9c004f11ebe4
   - b05f662f9f35
   - f0216498a666
   tool_panel_section_id: hicexplorer
@@ -96,6 +97,7 @@ tools:
 - name: hicexplorer_hicaverageregions
   owner: bgruening
   revisions:
+  - 0ec8d77d1833
   - 3240e8a7c54f
   - 8a11d70b6cd8
   - c72fa6cb8817
@@ -170,6 +172,7 @@ tools:
   revisions:
   - 07dd436ea686
   - 4977f65da0ff
+  - 5b245b3ded3f
   - 5dfba24d7bdd
   - 77d8e0fd162a
   tool_panel_section_id: hicexplorer
@@ -233,6 +236,7 @@ tools:
   revisions:
   - 1511a8ebe906
   - 1d9799f4b854
+  - 7f88b2b4662d
   - 910c6a1c3a27
   - ed900cd4a0a9
   tool_panel_section_id: hicexplorer
@@ -252,6 +256,7 @@ tools:
   - 2aa5b6b65197
   - 5e83c077e31d
   - 6d042c96aceb
+  - b1815cb2b298
   - f34ab9882252
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -323,6 +328,7 @@ tools:
   revisions:
   - 1d6af10874d5
   - 36dfa2825a59
+  - 86958f9bec1b
   - d74cf4a61d65
   - f81750434d70
   tool_panel_section_id: hicexplorer
