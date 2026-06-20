@@ -22,6 +22,7 @@ tools:
   - 63832a9e4d58
   - 8f95c3031339
   - a0b7364f35df
+  - bc496c2564a4
   tool_panel_section_id: interactive_tools
   tool_panel_section_label: Interactive Tools
 - name: physicell_studio
@@ -32,6 +33,7 @@ tools:
   - 237e6389b626
   - 94cb50e04648
   - b670740cf3f7
+  - d1c1889284f4
   - dd051f391a2c
   - f91d52f117fe
   tool_panel_section_id: interactive_tools

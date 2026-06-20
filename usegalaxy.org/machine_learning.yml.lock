@@ -79,6 +79,7 @@ tools:
   - 4a7df9abe4c4
   - 4eca9d109de1
   - 4fee4504646e
+  - 7422e87df409
   - 7d78a6afc958
   - 87bc71152366
   - afd0864d18b6
@@ -541,6 +542,7 @@ tools:
   - c2a7717d96ce
   - c2e2aa55dd5c
   - c374098d4f5c
+  - e8694d796a7e
   - eaddff553324
   - f5e6fb49e9ee
   - f73a2b68a37b
@@ -654,6 +656,7 @@ tools:
 - name: flexynesis
   owner: bgruening
   revisions:
+  - 6eb6d8e78d06
   - d1dc88960179
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -679,5 +682,6 @@ tools:
   owner: bgruening
   revisions:
   - 0e86b191f856
+  - 88244f1bdfcf
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
