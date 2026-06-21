@@ -53,6 +53,7 @@ tools:
   - e7dd78077b72
   - e82fd7fe796b
   - edd515746388
+  - efe3a2d3a31d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: image_learner
@@ -61,6 +62,7 @@ tools:
   - 1a9c42974a5a
   - 2c6624cae3c5
   - 64872c48a21f
+  - 6b5934d4c7a9
   - 85e6f4b2ad18
   - 8729f69e9207
   - 9e912fce264c
