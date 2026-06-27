@@ -406,6 +406,7 @@ tools:
 - name: imagej2_binary_to_edm
   owner: imgteam
   revisions:
+  - 4ae6e6b0258d
   - 91b8f4730a93
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -448,12 +449,14 @@ tools:
 - name: imagej2_find_edges
   owner: imgteam
   revisions:
+  - 59b8bef26edf
   - 633bea9c8ee0
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_shadows
   owner: imgteam
   revisions:
+  - ec82bbbeb775
   - f7ae316b00e4
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -485,6 +488,7 @@ tools:
   owner: imgteam
   revisions:
   - 29aca8eebdaa
+  - b92f57ebf6c8
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_bunwarpj_raw_transform
@@ -805,11 +809,13 @@ tools:
   owner: ufz
   revisions:
   - a41878cb0a6e
+  - afc11b6940e2
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: omero_import
   owner: ufz
   revisions:
+  - 75c2257023e8
   - c36a954d0e59
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
