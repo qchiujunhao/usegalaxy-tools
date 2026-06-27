@@ -113,6 +113,7 @@ tools:
   - 6ef0b5664c69
   - a3b86937ead6
   - ab9350a8ab4d
+  - afa26d1f6809
   - dad9da48a09a
   - e3cbd2287f63
   tool_panel_section_id: metagenomic_analysis
@@ -228,6 +229,7 @@ tools:
   - 32c9ea835770
   - 498d57610fcd
   - 555ccac8a4c5
+  - 5cba3a0dc3b6
   - 6f06d501b7e6
   - 78faebd0879c
   - 806fe614ca46
@@ -298,6 +300,7 @@ tools:
   - 89d11e95a9b1
   - 96336c6a2bb7
   - b35a5e8ff0fe
+  - b762f4d54f78
   - f79565b12646
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -328,6 +331,7 @@ tools:
   - 88677f452aea
   - 99c6929236fa
   - 9ccec6ed8e82
+  - aab8af79110e
   - bfd62e881837
   - e96bbb9e24ea
   - ebd632e95aae
@@ -896,12 +900,14 @@ tools:
 - name: concoct_coverage_table
   owner: iuc
   revisions:
+  - 6a9c82cc3448
   - fd31cd168efc
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: concoct
   owner: iuc
   revisions:
+  - 396cce609c04
   - eae7ee167917
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -909,12 +915,14 @@ tools:
   owner: iuc
   revisions:
   - 20ccec4a2c38
+  - 28b4b21d6aae
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: concoct_extract_fasta_bins
   owner: iuc
   revisions:
   - 8b1b09fcd8b7
+  - d87b60b2ed78
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: fasta_to_contig2bin
@@ -996,6 +1004,7 @@ tools:
   revisions:
   - 315c2ed31af1
   - 3a7f73d638ba
+  - 8065e0028a60
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: defense_finder
@@ -1070,12 +1079,14 @@ tools:
   owner: iuc
   revisions:
   - 8a6cd1c7c6fa
+  - 8ba360ca1871
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: metamdbg_gfa
   owner: iuc
   revisions:
   - 939f503acbcf
+  - a4933979dd06
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kegg_pathways_completeness
