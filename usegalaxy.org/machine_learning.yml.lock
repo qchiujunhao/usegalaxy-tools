@@ -13,6 +13,7 @@ tools:
   - 375c36923da1
   - 499a039871d0
   - 871957823d0c
+  - 9649a6aa6997
   - 975512caae22
   - a48e750cfd25
   - a5404f55ee6a
@@ -31,6 +32,7 @@ tools:
   - 328ff3a13078
   - 8729f69e9207
   - 94cd9ac4a9b1
+  - 97ea7b6dfcc7
   - bbf30253c99f
   - c460abae83eb
   - c5150cceab47
@@ -57,6 +59,7 @@ tools:
   - e7dd78077b72
   - e82fd7fe796b
   - edd515746388
+  - efe3a2d3a31d
   - f38427fed1f9
   - f6a65e05d6ec
   tool_panel_section_id: machine_learning
@@ -654,12 +657,14 @@ tools:
 - name: flexynesis
   owner: bgruening
   revisions:
+  - 6eb6d8e78d06
   - d1dc88960179
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: flexynesis_cbioportal_import
   owner: bgruening
   revisions:
+  - 9c320e113a6d
   - e6c626b3013b
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
