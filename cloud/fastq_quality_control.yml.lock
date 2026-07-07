@@ -20,6 +20,7 @@ tools:
   - df99138d2776
   - e4dd4c0622f6
   - f7e2f1eb3a16
+  - fac2260bc88a
   tool_panel_section_id: fastq_quality_control
   tool_panel_section_label: FASTQ Quality Control
 - name: fastp
@@ -34,7 +35,9 @@ tools:
   - 350c736075eb
   - 4557b2da9e7f
   - 65b93b623c77
+  - 68386e630362
   - 8276962186f2
+  - 8b1ff0343492
   - a626e8c0e1ba
   - b2e9a56e5259
   - c59d48774d03
