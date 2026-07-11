@@ -43,6 +43,7 @@ tools:
   - 00a8c36fc98c
   - 2fd21f5b16bc
   - 9d793e88e15f
+  - a9d66dc6a767
   - b38f620a3628
   - ccebde0e2d61
   tool_panel_section_id: evolution
@@ -62,6 +63,7 @@ tools:
   - 112d80c9ccca
   - 476189b83931
   - af03f3398f03
+  - e0448bc48085
   - eb6f0ec5b95e
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution

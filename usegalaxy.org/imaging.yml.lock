@@ -460,6 +460,7 @@ tools:
 - name: imagej2_bunwarpj_compose_raw
   owner: imgteam
   revisions:
+  - 231ca4c088d9
   - f068e9171af2
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -817,17 +818,20 @@ tools:
   owner: ufz
   revisions:
   - 4dcbcd213ee3
+  - 6a13fe2fa921
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: omero_roi_import
   owner: ufz
   revisions:
   - 44bd8be2c495
+  - 8da603b949c1
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: omero_dataset_to_plate
   owner: ufz
   revisions:
   - 86d6593f54d8
+  - b5fa5c86de56
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
