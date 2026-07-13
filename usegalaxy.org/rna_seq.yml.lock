@@ -46,6 +46,7 @@ tools:
   revisions:
   - 1b851f87fbe0
   - 30f6985f0ac7
+  - 37d067694d40
   - 38b6d12edc68
   - 5dbff3a5845a
   - 6f66ae7c5f7a
@@ -76,6 +77,7 @@ tools:
   - 76d290331481
   - 8eb8750070d4
   - 914cfcba0ec8
+  - 92198ab2345f
   - ae618321f34a
   - cbf488da3b2c
   - cef79931dda5
@@ -138,6 +140,7 @@ tools:
   - 71bacea10eee
   - 8fe98f7094de
   - 9a882d108833
+  - b060944b3989
   - cd9874cb9019
   - d027d1f4984e
   tool_panel_section_id: rna_seq
