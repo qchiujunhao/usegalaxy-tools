@@ -21,6 +21,7 @@ tools:
 - name: fastq_dl
   owner: iuc
   revisions:
+  - 123a40edeed1
   - 3f1ee30e39e9
   - 41635d6d4738
   - e3750180320b
@@ -36,5 +37,11 @@ tools:
   owner: galaxyp
   revisions:
   - 4ddc8da62671
+  tool_panel_section_id: get_data
+  tool_panel_section_label: Get Data
+- name: pysradb_search
+  owner: iuc
+  revisions:
+  - f63d8665d8ea
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
