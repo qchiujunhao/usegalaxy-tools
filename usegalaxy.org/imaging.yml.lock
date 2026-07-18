@@ -527,6 +527,7 @@ tools:
   owner: imgteam
   revisions:
   - 1cf9771e0e53
+  - ac4aee7dc64c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_sharpen
@@ -799,12 +800,14 @@ tools:
   owner: ufz
   revisions:
   - 59f7f9164544
+  - 7e7fc68b169a
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: omero_get_value
   owner: ufz
   revisions:
   - a41878cb0a6e
+  - afc11b6940e2
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: omero_import
@@ -823,11 +826,13 @@ tools:
   owner: ufz
   revisions:
   - 44bd8be2c495
+  - 8da603b949c1
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: omero_dataset_to_plate
   owner: ufz
   revisions:
   - 86d6593f54d8
+  - b5fa5c86de56
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
