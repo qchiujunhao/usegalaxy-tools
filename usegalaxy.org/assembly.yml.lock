@@ -90,6 +90,7 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
+  - 04d81e5f25e9
   - 05c394313b1c
   - 697c9156dafe
   - 9638ba70882c
@@ -248,6 +249,7 @@ tools:
   revisions:
   - 067592b6b312
   - 21e491ad532a
+  - 86ec2f06de3c
   - 94fe43e75ddc
   - b2860df42e16
   - b9e31c5c01c7
