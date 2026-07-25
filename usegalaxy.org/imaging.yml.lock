@@ -406,24 +406,28 @@ tools:
 - name: imagej2_binary_to_edm
   owner: imgteam
   revisions:
+  - 4ae6e6b0258d
   - 91b8f4730a93
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_bunwarpj_compare_elastic_raw
   owner: imgteam
   revisions:
+  - 07f37e516729
   - da91b5eaf92d
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_bunwarpj_compose_raw_elastic
   owner: imgteam
   revisions:
+  - 86886859d876
   - bdc70b34153a
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_analyze_particles_binary
   owner: imgteam
   revisions:
+  - 0601a9056642
   - 862af85a50ec
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -431,12 +435,14 @@ tools:
   owner: imgteam
   revisions:
   - 5f5b7185bc16
+  - efbe484bc683
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_create_image
   owner: imgteam
   revisions:
   - 69e28b06e027
+  - b63ed4bb2289
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_noise
@@ -448,6 +454,7 @@ tools:
 - name: imagej2_find_edges
   owner: imgteam
   revisions:
+  - 59b8bef26edf
   - 633bea9c8ee0
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -460,6 +467,7 @@ tools:
 - name: imagej2_bunwarpj_compose_raw
   owner: imgteam
   revisions:
+  - 231ca4c088d9
   - f068e9171af2
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -467,6 +475,7 @@ tools:
   owner: imgteam
   revisions:
   - 1f92b1da556b
+  - 93cb13a320fe
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_find_maxima
@@ -508,6 +517,7 @@ tools:
 - name: imagej2_bunwarpj_compare_elastic
   owner: imgteam
   revisions:
+  - c1c7a81ba4e5
   - f9f2d9746a01
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -527,6 +537,7 @@ tools:
   owner: imgteam
   revisions:
   - 1cf9771e0e53
+  - ac4aee7dc64c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_sharpen
@@ -550,6 +561,7 @@ tools:
 - name: imagej2_math
   owner: imgteam
   revisions:
+  - a2e5c70fdfcc
   - d426c25946d4
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
