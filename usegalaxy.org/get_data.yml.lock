@@ -51,6 +51,7 @@ tools:
   - bc18e25d4204
   - c47a0a93ffd2
   - d951c5b0edd1
+  - fd848bb708de
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
 - name: ebi_metagenomics_run_downloader
@@ -116,6 +117,7 @@ tools:
 - name: fastq_dl
   owner: iuc
   revisions:
+  - 123a40edeed1
   - 3f1ee30e39e9
   - 41635d6d4738
   - 5e7401777990
