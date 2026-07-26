@@ -151,6 +151,7 @@ tools:
 - name: raceid_inspectclusters
   owner: iuc
   revisions:
+  - 22c726451b40
   - 2b0d3e2f402a
   - 41f34e925bd5
   - c7ddb719554d
