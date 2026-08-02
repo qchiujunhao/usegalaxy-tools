@@ -85,6 +85,7 @@ tools:
   owner: lecorguille
   revisions:
   - 3820e3f3b1cb
+  - a151d2cf27fb
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_retcor
