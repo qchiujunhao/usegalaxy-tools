@@ -22,6 +22,7 @@ tools:
   revisions:
   - 2270a8b83c12
   - 45296e47d565
+  - cca3391dc8b4
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
 - name: gemini_query
@@ -71,12 +72,14 @@ tools:
   owner: iuc
   revisions:
   - 334e946cacd4
+  - fb2890358aa3
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
 - name: gemini_set_somatic
   owner: iuc
   revisions:
   - 7814e39409d1
+  - 96222aa3e86e
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
 - name: gemini_de_novo
