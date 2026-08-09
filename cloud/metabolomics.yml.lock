@@ -78,6 +78,7 @@ tools:
 - name: xcms_merge
   owner: lecorguille
   revisions:
+  - 8372531e6c92
   - ae28a753a6f8
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -97,6 +98,7 @@ tools:
   owner: ethevenot
   revisions:
   - e7c5811ec12f
+  - f19a3307db9b
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: intensity_checks
