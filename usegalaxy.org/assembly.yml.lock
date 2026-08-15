@@ -10,6 +10,7 @@ tools:
   - '392811378515'
   - 53dd00a4ab68
   - 54a68f38cf3f
+  - 81bc4c8bcf10
   - 8c2167481e72
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -275,6 +276,7 @@ tools:
   owner: bgruening
   revisions:
   - 045c7c3d8e59
+  - 09cf7b520734
   - 0ee0c3089254
   - 170061c052ad
   - 284a1cb82b61
@@ -672,6 +674,7 @@ tools:
 - name: teloscope
   owner: iuc
   revisions:
+  - 31f96c801f61
   - 321ceb58023e
   - 6c1cfce7c2eb
   tool_panel_section_id: assembly
