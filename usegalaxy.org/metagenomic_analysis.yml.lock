@@ -28,6 +28,7 @@ tools:
   - 60f307965815
   - 62c9df8382c2
   - 64be1ac21109
+  - 8a203e727140
   - 8b8a3f793f0f
   - 9553180705b7
   - a02aa0dfb850
@@ -271,6 +272,7 @@ tools:
   - 7136e9ab70db
   - 7f3b59dee073
   - 7f8f0e9fcb37
+  - a6ceb91124fa
   - b6dddf8c2e6f
   - efe26de231ec
   tool_panel_section_id: metagenomic_analysis
@@ -314,6 +316,7 @@ tools:
   revisions:
   - 04c15826a0b8
   - 0776d824d896
+  - 1fb4fc5e64d6
   - 39638e0aff59
   - 4bba91a89457
   - 5fe3edf19b9c
@@ -370,6 +373,7 @@ tools:
   - 390bc2645138
   - 4cc834cce4fb
   - 7d28da5e9e27
+  - 86d6d6cda803
   - 9058d8943303
   - 9180d536e20d
   - a7817705348e
@@ -531,6 +535,7 @@ tools:
   revisions:
   - 95bf7479d53c
   - a00df747f03c
+  - a6fd47ecbff8
   - c2803012bbb3
   - fc6c328c292f
   tool_panel_section_id: metagenomic_analysis
@@ -658,6 +663,7 @@ tools:
 - name: recentrifuge
   owner: iuc
   revisions:
+  - 2db2dc0eca8c
   - 591175c0f051
   - 612df2a5054f
   - 613ee22af97c

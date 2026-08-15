@@ -430,6 +430,7 @@ tools:
   owner: iuc
   revisions:
   - 373c1735d31f
+  - 44c396b0f5e1
   - 9f1660129403
   - cd0484c5f9f1
   - d58a57db7a96
@@ -553,11 +554,13 @@ tools:
   owner: iuc
   revisions:
   - 7844dbe4f8e2
+  - 96112e4c5e26
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: compleasm
   owner: iuc
   revisions:
+  - 2b9b64614d0c
   - 7109a27a11db
   - 8f20a5b9b282
   - cfec9601b25d
@@ -708,6 +711,7 @@ tools:
 - name: hmmer_alimask
   owner: iuc
   revisions:
+  - a30ef2a2b3a9
   - e3e5f208e93c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -732,6 +736,7 @@ tools:
 - name: hmmer_hmmemit
   owner: iuc
   revisions:
+  - 82d6ca8212dc
   - be03abdc6451
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
