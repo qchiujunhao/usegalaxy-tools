@@ -25,6 +25,7 @@ tools:
   - '365325116147'
   - dd72ff87cfd0
   - f203ea355bc8
+  - f62897ab1008
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_convert_to_vcf
@@ -91,6 +92,7 @@ tools:
   - 0a5dcc9a8ec2
   - 0dbff46d5a1b
   - 43f0efd586c4
+  - cd06642e9c20
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_plugin_mendelian
@@ -98,6 +100,7 @@ tools:
   revisions:
   - 8f5962c43868
   - bf235558f2cf
+  - e52c0cfa25c4
   - eed37e76acd1
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -105,6 +108,7 @@ tools:
   owner: iuc
   revisions:
   - 05f317e50e61
+  - 2844fbbcaa92
   - c3c930926708
   - d40d4bf05718
   tool_panel_section_id: vcf_bcf
@@ -113,6 +117,7 @@ tools:
   owner: iuc
   revisions:
   - 012656fd329f
+  - 506cb7ed2a11
   - a20d6492132d
   - b8e9da766b0f
   tool_panel_section_id: vcf_bcf
@@ -147,6 +152,7 @@ tools:
   - 582f8b13873d
   - 69ad30be1a8b
   - a12844ca467a
+  - ecb9cfd7b005
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_plugin_fill_tags
