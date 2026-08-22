@@ -37,6 +37,7 @@ tools:
   - 7d84cdd45c15
   - 8729f69e9207
   - 94cd9ac4a9b1
+  - a2e4242653ec
   - bbf30253c99f
   - c460abae83eb
   - c5150cceab47
@@ -594,6 +595,7 @@ tools:
   revisions:
   - 05143043ca13
   - 1588f9076e32
+  - 1d2a478bb514
   - 21730620a849
   - 222c02df5d55
   - 4a229a7ad638

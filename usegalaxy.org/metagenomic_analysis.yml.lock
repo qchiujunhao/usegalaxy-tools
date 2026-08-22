@@ -28,6 +28,7 @@ tools:
   - 60f307965815
   - 62c9df8382c2
   - 64be1ac21109
+  - 8a203e727140
   - 8b8a3f793f0f
   - 9553180705b7
   - a02aa0dfb850
@@ -81,6 +82,7 @@ tools:
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
+  - 7d01da0b9e18
   - e9005d1f3cfd
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -869,6 +871,7 @@ tools:
   - 24313e0ff049
   - 304ac5b49dea
   - 66acaec9f386
+  - fd8ed3767ebb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: ampvis2_load
@@ -957,6 +960,7 @@ tools:
 - name: drep_compare
   owner: iuc
   revisions:
+  - e5dc009367ef
   - f0334664a47b
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -980,6 +984,7 @@ tools:
   owner: iuc
   revisions:
   - 28d740f2c0b0
+  - 66919d81c4d1
   - d9b724b4a136
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
