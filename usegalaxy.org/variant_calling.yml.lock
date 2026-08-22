@@ -59,6 +59,7 @@ tools:
   - 3e954e7125bf
   - 85dc96ebc770
   - a5937157062f
+  - c752293b798c
   - e698621cca1f
   - ef2c525bd8cd
   tool_panel_section_id: variant_calling
@@ -199,6 +200,7 @@ tools:
   - 2e303fcd3b0c
   - 399b40b2bcab
   - 3c6952a2b0e4
+  - 4517996e7c99
   - 48ac4d611e92
   - abd806291372
   - b03c0b3e67a6
@@ -221,6 +223,7 @@ tools:
   - 287c4af133e6
   - 2898012c5265
   - 3be27a9a7313
+  - '503487218735'
   - 53ce8be43212
   - fb0bb7174530
   - fd2d6e035c3f

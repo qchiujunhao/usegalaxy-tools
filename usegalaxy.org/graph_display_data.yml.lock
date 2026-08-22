@@ -44,6 +44,7 @@ tools:
 - name: jbrowse
   owner: iuc
   revisions:
+  - 1483285bdb7a
   - 17359b808b01
   - 1cfc579079a6
   - 2bb2e07a7a21
