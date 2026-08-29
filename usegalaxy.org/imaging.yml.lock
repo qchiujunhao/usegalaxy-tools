@@ -539,6 +539,7 @@ tools:
   owner: imgteam
   revisions:
   - 1cf9771e0e53
+  - ac4aee7dc64c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_sharpen
