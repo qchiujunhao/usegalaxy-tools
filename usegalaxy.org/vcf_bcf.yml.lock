@@ -243,6 +243,7 @@ tools:
   - 8a885a1a92ea
   - 8e01baf41774
   - 95815a0bb307
+  - b79aae13e613
   - b7ea370b8f5d
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -250,6 +251,7 @@ tools:
   owner: iuc
   revisions:
   - 1da985043619
+  - 633588f5cf1b
   - 8899a6d50699
   - 9f69e7d58d03
   - ae68ceb4cca3
@@ -483,6 +485,7 @@ tools:
   - af36eb5418fe
   - bf235558f2cf
   - e0a856def0b0
+  - e52c0cfa25c4
   - eed37e76acd1
   - f544f71adb73
   tool_panel_section_id: vcf_bcf
@@ -554,6 +557,7 @@ tools:
   - 03e30f06f15f
   - 2f4eef1f0d22
   - 34dc0bbc7e93
+  - 433f1673736a
   - 5d98fe06e4ae
   - 701e01819e52
   - 793ae03deb13
@@ -568,6 +572,7 @@ tools:
   revisions:
   - 05652f267ebc
   - 18cf9de1cf73
+  - 2261ddc23215
   - 242753783b68
   - 2c80b0d6bde0
   - 77e0bd62b554
@@ -582,6 +587,7 @@ tools:
   owner: iuc
   revisions:
   - 1ca7418e46ee
+  - 262d695b5456
   - 271965b55437
   - 5226c31ac6d3
   - 5fa262ce95dd

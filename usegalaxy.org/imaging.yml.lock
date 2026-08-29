@@ -452,6 +452,7 @@ tools:
 - name: imagej2_find_edges
   owner: imgteam
   revisions:
+  - 59b8bef26edf
   - 633bea9c8ee0
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging

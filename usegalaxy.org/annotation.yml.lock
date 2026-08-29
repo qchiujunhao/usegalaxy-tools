@@ -151,6 +151,7 @@ tools:
   revisions:
   - 637ec5d5368c
   - 96e6283e4745
+  - b7e91ff1a894
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: jcvi_gff_stats
@@ -558,6 +559,7 @@ tools:
 - name: compleasm
   owner: iuc
   revisions:
+  - 2b9b64614d0c
   - 7109a27a11db
   - 8f20a5b9b282
   - cfec9601b25d
@@ -596,6 +598,7 @@ tools:
   owner: iuc
   revisions:
   - 1942e86e2ee1
+  - 292eea8defa7
   - d77802fe76f7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
