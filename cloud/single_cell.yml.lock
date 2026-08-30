@@ -126,6 +126,7 @@ tools:
 - name: dropletutils
   owner: iuc
   revisions:
+  - 10d928447114
   - 2c1200fba922
   - a9caad671439
   tool_panel_section_id: single_cell
@@ -184,6 +185,7 @@ tools:
 - name: raceid_trajectory
   owner: iuc
   revisions:
+  - 2581f709c447
   - 2af7c5086a96
   - 2bfd55b87af3
   - 72979cac22b2
@@ -206,6 +208,7 @@ tools:
   revisions:
   - 04b494623f8e
   - '528052085629'
+  - a8b6292cdffc
   - b0fe3e482cb7
   - c9944a2600f1
   - e4c01dcece8b
