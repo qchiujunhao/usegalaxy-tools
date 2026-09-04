@@ -59,6 +59,7 @@ tools:
   owner: devteam
   revisions:
   - 9149ad20699a
+  - cc01c0658f6c
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: sam_to_bam
