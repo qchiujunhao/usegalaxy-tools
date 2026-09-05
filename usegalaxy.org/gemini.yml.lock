@@ -77,6 +77,7 @@ tools:
   owner: iuc
   revisions:
   - 7814e39409d1
+  - 96222aa3e86e
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
 - name: gemini_de_novo

@@ -29,6 +29,7 @@ tools:
   - 563c3aa769f2
   - 6bbd30d58cf4
   - 70acec670c30
+  - '856173762903'
   - 973a28be3b7f
   - 9b892d7f82cc
   - b8476e82ac20
@@ -82,6 +83,7 @@ tools:
 - name: tasmanian_mismatch
   owner: iuc
   revisions:
+  - 0a9610941788
   - 98f2b5dfdaa9
   - b15fbf90db53
   tool_panel_section_id: evolution
