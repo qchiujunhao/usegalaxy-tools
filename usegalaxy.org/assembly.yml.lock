@@ -168,6 +168,7 @@ tools:
 - name: spades_coronaspades
   owner: iuc
   revisions:
+  - 045c8498d2dd
   - 152ff7d1817a
   - 2cf8a2028ddc
   - 34305b013402
@@ -275,6 +276,7 @@ tools:
   owner: bgruening
   revisions:
   - 045c7c3d8e59
+  - 09cf7b520734
   - 0ee0c3089254
   - 170061c052ad
   - 284a1cb82b61
@@ -688,5 +690,6 @@ tools:
   owner: iuc
   revisions:
   - 6240e5015f93
+  - ee4041c922c8
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly

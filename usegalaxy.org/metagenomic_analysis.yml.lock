@@ -44,6 +44,7 @@ tools:
 - name: vegan_rarefaction
   owner: iuc
   revisions:
+  - 2e07478654b3
   - af1211ed6c8e
   - b0d5976540e3
   tool_panel_section_id: metagenomic_analysis
@@ -52,6 +53,7 @@ tools:
   owner: iuc
   revisions:
   - 0148e5cf20b2
+  - 9e3206d6c148
   - f9966e11885b
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -878,6 +880,7 @@ tools:
   - 3481feabc54e
   - 5029fd9d572e
   - 738474880da8
+  - 841c5e03eb05
   - 9b3e1acc3ad0
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis

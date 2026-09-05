@@ -64,6 +64,7 @@ tools:
   revisions:
   - 3990a65b45a4
   - 6550698fe60f
+  - 734dfb2af03a
   - b02d1992a43a
   - f5d51091cf84
   tool_panel_section_id: metabolomics
@@ -143,11 +144,13 @@ tools:
   - 4b9ab71be05e
   - 512c2b701d96
   - 75a1b3f7bacc
+  - abc7c44ae8f7
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_export_samplemetadata
   owner: lecorguille
   revisions:
+  - 46f13a609b3e
   - 4ea32e46b2d6
   - 94eb263cfab4
   - cdab04a1d1d7
