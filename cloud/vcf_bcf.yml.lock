@@ -30,6 +30,7 @@ tools:
 - name: bcftools_convert_to_vcf
   owner: iuc
   revisions:
+  - 4bbdf586aeff
   - 68736d355615
   - cfd81f17580b
   - fec517907949
@@ -65,6 +66,7 @@ tools:
   owner: iuc
   revisions:
   - 01d6b7d6365e
+  - 2b7e7aa56527
   - 61dfbc82ffc8
   - ccb83bf54de0
   tool_panel_section_id: vcf_bcf
@@ -131,6 +133,7 @@ tools:
   - 2331ddcbd5aa
   - 9ef52d95114b
   - a0b1c0bdfa5a
+  - b7432d10bd2d
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_stats
@@ -235,6 +238,7 @@ tools:
   - 0c50683a9c94
   - 283911fe7e1a
   - 5c232a738c74
+  - 66520720289f
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_query
@@ -250,6 +254,7 @@ tools:
   owner: iuc
   revisions:
   - 3897eaadfbff
+  - 4e4f9c001b11
   - 9268b0ad92af
   - bdfdf5f6e950
   tool_panel_section_id: vcf_bcf

@@ -29,6 +29,7 @@ tools:
 - name: recentrifuge
   owner: iuc
   revisions:
+  - 2ef21eba2d01
   - 613ee22af97c
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -127,6 +128,7 @@ tools:
   - 53a019316350
   - 7209f32a9e9d
   - 97b1540b4830
+  - bef32ef81f43
   - e91d979deb87
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -245,6 +247,7 @@ tools:
   - 0a13d449d1bf
   - 4efeb75704c8
   - 6bd7c48ff6ed
+  - a6ceb91124fa
   - efe26de231ec
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -265,11 +268,13 @@ tools:
   - 705d26fbea02
   - 9f306361a58e
   - ce4bfce70e64
+  - e0aea8e800d7
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mash_sketch
   owner: iuc
   revisions:
+  - 9c102da4ca13
   - 9de5319ad2db
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis

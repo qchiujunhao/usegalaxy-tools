@@ -52,6 +52,7 @@ tools:
   - 13cf83ced60c
   - 3701d29f7105
   - 55e35e9203cf
+  - 8f8c0fdd625d
   - 923dcc644832
   - 93dd15e13e6a
   - d0a337ddf062
@@ -78,6 +79,7 @@ tools:
   owner: iuc
   revisions:
   - 3d748954434b
+  - 637e50759b72
   - 7e8c677a7b71
   - 9bd945a03d7b
   - 9ef202055d5c
@@ -184,6 +186,7 @@ tools:
 - name: raceid_trajectory
   owner: iuc
   revisions:
+  - 2581f709c447
   - 2af7c5086a96
   - 2bfd55b87af3
   - 72979cac22b2
