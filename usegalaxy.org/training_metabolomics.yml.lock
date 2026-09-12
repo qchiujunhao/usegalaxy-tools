@@ -5,6 +5,7 @@ tools:
 - name: msconvert
   owner: galaxyp
   revisions:
+  - 252d185267fc
   - 28ffaaa5739f
   - 331a50e8fd2f
   - 4493fdb346f0
@@ -27,6 +28,7 @@ tools:
   owner: lecorguille
   revisions:
   - 26d77e9ceb49
+  - 564d6ab0cf18
   - a8d866a71ba1
   - bb9ee352fce0
   - ec9aebabc1d2
@@ -148,6 +150,7 @@ tools:
 - name: xcms_export_samplemetadata
   owner: lecorguille
   revisions:
+  - 46f13a609b3e
   - 4ea32e46b2d6
   - 94eb263cfab4
   - cdab04a1d1d7
