@@ -52,6 +52,7 @@ tools:
 - name: gemini_db_info
   owner: iuc
   revisions:
+  - b1e50c7b840e
   - c2a413e47fe9
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
