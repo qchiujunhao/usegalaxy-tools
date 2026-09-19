@@ -747,6 +747,7 @@ tools:
   owner: iuc
   revisions:
   - 6154937135c7
+  - 83f3879b10e8
   - c520f64ffd57
   - fee4b4eb0ef5
   tool_panel_section_id: single_cell
