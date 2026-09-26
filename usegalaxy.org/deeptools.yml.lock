@@ -35,6 +35,7 @@ tools:
   - 69264da0ce77
   - 7784523d9743
   - aa200e4f3939
+  - c59e0acb4e0b
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
 - name: deeptools_plot_heatmap
@@ -96,6 +97,7 @@ tools:
   - 3c9f0c486cca
   - 459cfa861f0b
   - d9ce4897dbb2
+  - ec28c2928823
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
 - name: deeptools_multi_bam_summary
