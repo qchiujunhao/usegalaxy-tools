@@ -127,6 +127,7 @@ tools:
   - 53a019316350
   - 7209f32a9e9d
   - 97b1540b4830
+  - bef32ef81f43
   - e91d979deb87
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -169,6 +170,7 @@ tools:
 - name: ampvis2_load
   owner: iuc
   revisions:
+  - 05d7672c6bed
   - 27ac516ba719
   - 5029fd9d572e
   - 738474880da8
@@ -265,6 +267,7 @@ tools:
   - 705d26fbea02
   - 9f306361a58e
   - ce4bfce70e64
+  - e0aea8e800d7
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mash_sketch
