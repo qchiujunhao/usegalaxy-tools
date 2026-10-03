@@ -18,6 +18,7 @@ tools:
 - name: srs_preprocess_s2
   owner: ecology
   revisions:
+  - 1357537d4b7f
   - 33a1e15f7252
   tool_panel_section_id: compute_indicators_for_satellite_remote_sensing
   tool_panel_section_label: Compute indicators for satellite remote sensing

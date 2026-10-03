@@ -64,6 +64,7 @@ tools:
   revisions:
   - 3990a65b45a4
   - 6550698fe60f
+  - 734dfb2af03a
   - b02d1992a43a
   - f5d51091cf84
   tool_panel_section_id: metabolomics
@@ -80,6 +81,7 @@ tools:
   - 00e66c401366
   - 07cac38cbd29
   - 357df6c47d92
+  - 360836810cd5
   - 3f7790b73906
   - 83c4b4359ac4
   - a26afcf352fd
@@ -89,6 +91,7 @@ tools:
 - name: matchms_formatter
   owner: recetox
   revisions:
+  - 2d17d540ec2b
   - 5fa29e292e12
   - 604131c54f97
   - 6501d0287dcd
