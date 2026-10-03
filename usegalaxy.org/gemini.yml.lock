@@ -65,6 +65,7 @@ tools:
   owner: iuc
   revisions:
   - 4b5123d51e8c
+  - 84ede9f5fddb
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
 - name: gemini_amend
@@ -77,6 +78,7 @@ tools:
   owner: iuc
   revisions:
   - 7814e39409d1
+  - 96222aa3e86e
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
 - name: gemini_de_novo

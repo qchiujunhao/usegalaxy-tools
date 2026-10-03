@@ -289,6 +289,7 @@ tools:
   revisions:
   - 91674d4623a8
   - 9f2d2c96a189
+  - ca3572fb1eab
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: ucsc_netchainsubset
