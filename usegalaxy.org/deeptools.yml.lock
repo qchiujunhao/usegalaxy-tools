@@ -85,6 +85,7 @@ tools:
   - 32e451def88c
   - bad3ca889618
   - bd7db9e2f2cb
+  - c3dfef526d03
   - e44978659400
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
@@ -103,6 +104,7 @@ tools:
   revisions:
   - 01fb6a7654e6
   - 1fcb7adc39b8
+  - 3d5024351691
   - 69a8621ca2f0
   - 78f405266706
   - b4e53394fced
@@ -178,6 +180,7 @@ tools:
 - name: deeptools_bigwig_average
   owner: bgruening
   revisions:
+  - 35b2d3ebd6d7
   - 4a53856a5b85
   - f6f246438eda
   tool_panel_section_id: deeptools
