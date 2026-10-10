@@ -38,6 +38,7 @@ tools:
   - 2b676d5eb848
   - 3820e3f3b1cb
   - 71572faf938e
+  - a151d2cf27fb
   - d45a786cbc40
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -56,6 +57,7 @@ tools:
   - 33c0ca93f3ee
   - 8242376d9f35
   - aa252eec9229
+  - ba20f926a460
   - d2b82d89f848
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -64,6 +66,7 @@ tools:
   revisions:
   - 3990a65b45a4
   - 6550698fe60f
+  - 734dfb2af03a
   - b02d1992a43a
   - f5d51091cf84
   tool_panel_section_id: metabolomics
@@ -80,6 +83,7 @@ tools:
   - 00e66c401366
   - 07cac38cbd29
   - 357df6c47d92
+  - 360836810cd5
   - 3f7790b73906
   - 83c4b4359ac4
   - a26afcf352fd
@@ -170,6 +174,7 @@ tools:
   - 1ae878634ab3
   - 2a2850fdf29e
   - 444e3ed135e3
+  - 773aea6651d2
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: idchoice

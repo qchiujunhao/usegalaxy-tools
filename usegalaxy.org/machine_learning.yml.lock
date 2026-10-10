@@ -37,6 +37,7 @@ tools:
   - 7d84cdd45c15
   - 8729f69e9207
   - 94cd9ac4a9b1
+  - a2e4242653ec
   - bbf30253c99f
   - c460abae83eb
   - c5150cceab47
@@ -50,6 +51,7 @@ tools:
   owner: goeckslab
   revisions:
   - 01e7c5481f13
+  - 06ef6f6ebfb1
   - 07acf85d1c6b
   - 0afd970bd8ae
   - 11fdac5affb3
@@ -94,6 +96,7 @@ tools:
   - 4a7df9abe4c4
   - 4eca9d109de1
   - 4fee4504646e
+  - 7363de120cc2
   - 7422e87df409
   - 7d16a7bd5f41
   - 7d78a6afc958
@@ -116,6 +119,7 @@ tools:
   - 1e088aa741eb
   - 25b46af53232
   - 29e4122c90de
+  - 3dd539570a60
   - 475b5171945f
   - 60c726f5cc5e
   - 65820fb7257b
@@ -135,6 +139,7 @@ tools:
   - 00b2ee48b412
   - 00d1889e9ecc
   - 01131463df86
+  - 08b52ffcd2b4
   - 0c933465d70e
   - 2a853a2d2e72
   - 2b8d85927742
@@ -158,6 +163,7 @@ tools:
   - 5b35833076f0
   - 66d7efc06000
   - 772e0e89fc68
+  - 98aeca624881
   - 9b6faa256f15
   - beeeda757eba
   - c51571d0a0b1
@@ -183,12 +189,14 @@ tools:
   - 7f6079deac6f
   - 9d77b259ef27
   - a98b60c639af
+  - ab2372b0d73d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_stacking_ensemble_models
   owner: bgruening
   revisions:
   - 253b3aaf0d91
+  - 9ec25da5ece0
   - ae4b593c99f8
   - b78007bf1cb8
   - b8378d4791b7
@@ -205,6 +213,7 @@ tools:
   - 4d1637cac794
   - 77125cbb54ac
   - 8b822484debc
+  - a0b0f3158c8c
   - adf9f8d5ab9a
   - b3a4682eabb6
   - bde62c243b7e
@@ -232,6 +241,7 @@ tools:
   - c9ddd20d25d0
   - d0352e8b4c10
   - e19359b23e54
+  - fb9782000c55
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_model_validation
@@ -248,6 +258,7 @@ tools:
   - 845dfafac355
   - 887e0aaa482e
   - 9dc28a4b6ca8
+  - afa146d816e9
   - bacc38e0a29e
   - bfc7bdfcb423
   - e06ab1e112cc
@@ -267,6 +278,7 @@ tools:
   - b7c3e9a3b954
   - d2afc87db26b
   - de94341feadb
+  - df690bb42687
   - f458724cc317
   - f9639b488779
   - fa9d6a4d95ad
@@ -286,6 +298,7 @@ tools:
   - ab9977548806
   - b4ba9602a36e
   - db7eb7302fc9
+  - e6af850a1675
   - e99cccc3ca13
   - eb41d87cb1de
   - fed1850f01c3
@@ -303,6 +316,7 @@ tools:
   - 5023535e9f8b
   - 69c44aab684e
   - 7626ea9c2e1b
+  - 9a01835cdead
   - a36a45cb96fa
   - d37a7f17e35d
   - e5a5ad882f1f
@@ -321,6 +335,7 @@ tools:
   - 4c4ec859c31a
   - 7388ffedf12c
   - 7442b94d6a1e
+  - 78eb20e5bdd3
   - 840f29aad145
   - 9160cb4069c2
   - 97dce66fe158
@@ -336,6 +351,7 @@ tools:
   - 09bfbef3dd90
   - 1682b64aad9e
   - 226524df8c6c
+  - 23a37a52a899
   - 2a1afd3481ce
   - 3ff43fbb7ccf
   - 5bd0866dbc7a
@@ -428,6 +444,7 @@ tools:
   revisions:
   - 045faa05e712
   - 0ff864fabfe9
+  - 191eac3065de
   - 1b5cd2d16fb1
   - 1bef885255e0
   - 50b3e080cef0
@@ -466,6 +483,7 @@ tools:
   revisions:
   - 146133e04fbc
   - 1e98dbb8d5bc
+  - 31fca3ff2a46
   - 4e6ada84d334
   - 5c9fb40ae174
   - 6000c1589f33
@@ -615,6 +633,7 @@ tools:
   - 3045d322d4ac
   - 74f96ebc5554
   - 8e95b68b178b
+  - a46f6d5ea764
   - b7d104ede67e
   - c48ffc96fe79
   - d562708bb095
