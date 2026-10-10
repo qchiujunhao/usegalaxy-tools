@@ -10,6 +10,7 @@ tools:
   - '392811378515'
   - 53dd00a4ab68
   - 54a68f38cf3f
+  - 81bc4c8bcf10
   - 8c2167481e72
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -132,6 +133,7 @@ tools:
   - 675ee1aa5952
   - 9e58ff014088
   - a8a278849c18
+  - c6ba8470ed01
   - e122f9101584
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -157,6 +159,7 @@ tools:
   - 4a01e0d2892c
   - 6b5a5842531e
   - 7e27faaad80e
+  - 9911ca348668
   - ae96f644b722
   - b8002c3f7141
   - c5c4fa59be65
@@ -218,6 +221,7 @@ tools:
   - 6766a94ef559
   - 7922870efcca
   - 9de69775f512
+  - dcaf2403747d
   - e060c3987513
   - ea83ac535a1f
   - ed32d95f436a
@@ -275,6 +279,7 @@ tools:
   owner: bgruening
   revisions:
   - 045c7c3d8e59
+  - 09cf7b520734
   - 0ee0c3089254
   - 170061c052ad
   - 284a1cb82b61
@@ -369,6 +374,7 @@ tools:
   - 02831bf9e95f
   - 0346286a3b0a
   - 056f86469460
+  - 0d0e8d0691c8
   - 2b16ba799da9
   - 511e5e3cd55e
   - 7087d9a23185
@@ -485,6 +491,7 @@ tools:
   - 608ea80cccba
   - 7a2b37ae4a50
   - 914533f3507e
+  - b507ad3fe6ce
   - c162f3c43442
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -544,6 +551,7 @@ tools:
   - 6cbca5661205
   - 7f71687c8146
   - 81fc1418fbfb
+  - 88926bef8e75
   - ade829d2ae3a
   - c20a07c9237b
   - cfeb5205eacc
@@ -672,6 +680,7 @@ tools:
 - name: teloscope
   owner: iuc
   revisions:
+  - 31f96c801f61
   - 321ceb58023e
   - 6c1cfce7c2eb
   tool_panel_section_id: assembly
