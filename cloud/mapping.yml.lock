@@ -66,6 +66,7 @@ tools:
   - 980d2a2e1180
   - b0f2be869d6d
   - c772497b2c32
+  - d8d32326fbfb
   - de21b616f03a
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
