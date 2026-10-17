@@ -157,6 +157,7 @@ tools:
   - 4a01e0d2892c
   - 6b5a5842531e
   - 7e27faaad80e
+  - 9911ca348668
   - ae96f644b722
   - b8002c3f7141
   - c5c4fa59be65
@@ -183,6 +184,7 @@ tools:
   owner: iuc
   revisions:
   - 051fd2db8a27
+  - 162a7ff870e9
   - 5e7a2a927b56
   - 604782a8a53a
   - 60b8f1668552
@@ -207,6 +209,7 @@ tools:
   - 85fb02c43042
   - 8cc856b935ee
   - b40b77418372
+  - c4e781659379
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaviralspades
@@ -239,6 +242,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 263af8401aed
   - 33368fec3b70
   - 65d1598a9256
   - 7897763d14ec
@@ -275,6 +279,7 @@ tools:
   owner: bgruening
   revisions:
   - 045c7c3d8e59
+  - 09cf7b520734
   - 0ee0c3089254
   - 170061c052ad
   - 284a1cb82b61
@@ -403,6 +408,7 @@ tools:
   - 75b4a2298714
   - 8e422c873d02
   - 936a1edffce8
+  - 9491362ac1cd
   - eca7d3a0c5f2
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
