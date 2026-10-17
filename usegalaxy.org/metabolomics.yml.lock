@@ -49,17 +49,20 @@ tools:
   owner: recetox
   revisions:
   - 6c7b17d38a1d
+  - d3dfaa7496a2
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: mfassignr_findrecalseries
   owner: recetox
   revisions:
   - 1b4881c150cc
+  - eea4113efc99
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: mfassignr_recal
   owner: recetox
   revisions:
+  - 91af26deeb98
   - cfcf45ba58be
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -73,6 +76,7 @@ tools:
   owner: recetox
   revisions:
   - 3f54cd56a65e
+  - 63273927b45d
   - 761f8ab8fdb6
   - 8537763e4713
   tool_panel_section_id: metabolomics

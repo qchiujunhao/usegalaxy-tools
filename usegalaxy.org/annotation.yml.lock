@@ -217,6 +217,7 @@ tools:
   revisions:
   - 1f5641a52664
   - 31812e7a1315
+  - 578b60b1279d
   - ded48b36f3b7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -237,6 +238,7 @@ tools:
 - name: optitype
   owner: iuc
   revisions:
+  - 9615db65e2e7
   - fd974c5df8bc
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -732,6 +734,7 @@ tools:
 - name: hmmer_hmmemit
   owner: iuc
   revisions:
+  - 82d6ca8212dc
   - be03abdc6451
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
