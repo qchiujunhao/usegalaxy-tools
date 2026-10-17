@@ -59,6 +59,7 @@ tools:
   - 3e954e7125bf
   - 85dc96ebc770
   - a5937157062f
+  - c752293b798c
   - e698621cca1f
   - ef2c525bd8cd
   tool_panel_section_id: variant_calling
@@ -128,6 +129,7 @@ tools:
   revisions:
   - 03627f24605f
   - 074d44697036
+  - 14af3b671440
   - 31216d510164
   - 3b4b2121842f
   - 4805fe3d8fda
@@ -163,6 +165,7 @@ tools:
 - name: lofreq_viterbi
   owner: iuc
   revisions:
+  - 3330ebe7c0c7
   - 33a416e1659e
   - aa35ee7f3ab2
   - af7e416d8176
@@ -354,5 +357,11 @@ tools:
   - 703a2cb3fb38
   - 7a5a2d28c539
   - 88e27e10b1ed
+  tool_panel_section_id: variant_calling
+  tool_panel_section_label: Variant Calling
+- name: happy
+  owner: iuc
+  revisions:
+  - a5444c30823d
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
