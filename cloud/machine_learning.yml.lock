@@ -124,6 +124,7 @@ tools:
 - name: model_prediction
   owner: bgruening
   revisions:
+  - 3dd539570a60
   - b6c2289292fa
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -131,11 +132,13 @@ tools:
   owner: bgruening
   revisions:
   - 00d1889e9ecc
+  - 08b52ffcd2b4
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_model_builder
   owner: bgruening
   revisions:
+  - 98aeca624881
   - fe0e82a7d0ee
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -244,6 +247,7 @@ tools:
 - name: sklearn_train_test_split
   owner: bgruening
   revisions:
+  - 6f7e3901728d
   - e8e5736b632d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -256,6 +260,7 @@ tools:
 - name: sklearn_to_categorical
   owner: bgruening
   revisions:
+  - 791fa244e44d
   - f86c0419af43
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -263,6 +268,7 @@ tools:
   owner: bgruening
   revisions:
   - 1d2a478bb514
+  - 9276346ed061
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_lightgbm
@@ -280,6 +286,7 @@ tools:
 - name: keras_train_and_eval
   owner: bgruening
   revisions:
+  - 19407b7f815c
   - 31f6bf2382dc
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -333,5 +340,12 @@ tools:
   revisions:
   - 0e86b191f856
   - 88244f1bdfcf
+  tool_panel_section_id: machine_learning
+  tool_panel_section_label: Machine Learning
+- name: sklearn_label_encoder
+  owner: bgruening
+  revisions:
+  - 549937c7349c
+  - d6fccdb87bf3
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
