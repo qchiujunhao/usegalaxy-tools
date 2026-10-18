@@ -66,6 +66,7 @@ tools:
   - 31f58ec0459a
   - 3f3e247c053d
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: busco
@@ -92,6 +93,7 @@ tools:
 - name: helixer
   owner: genouest
   revisions:
+  - a3586bccb95f
   - c2fc4ac35199
   - cef77c1fe708
   tool_panel_section_id: annotation
@@ -135,6 +137,7 @@ tools:
 - name: argnorm
   owner: iuc
   revisions:
+  - 9125d3f45f4d
   - d8e95a03321a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -142,6 +145,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - a43aa384ead4
   - bd5630d401cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -173,5 +177,6 @@ tools:
   owner: iuc
   revisions:
   - 321ceb58023e
+  - d0f5d9821854
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
