@@ -21,6 +21,7 @@ tools:
   - 4efdca267d51
   - b734db305578
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: augustus
@@ -72,6 +73,7 @@ tools:
   - 602fb8e63aa7
   - 94170eee0ad8
   - c5a90fa4b8dd
+  - cc217867028e
   - cf13a1e03e5b
   - e4bd1e99bacf
   - e5c372c91e46
@@ -175,6 +177,7 @@ tools:
 - name: repeat_masker
   owner: bgruening
   revisions:
+  - 31763a56f1d7
   - 39b40a9a6296
   - 3f987772e283
   - 438f65cb1d14
@@ -552,6 +555,7 @@ tools:
 - name: amrfinderplus
   owner: iuc
   revisions:
+  - 573cfe217474
   - 7844dbe4f8e2
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -560,6 +564,7 @@ tools:
   revisions:
   - 7109a27a11db
   - 8f20a5b9b282
+  - c8913c72ee87
   - cfec9601b25d
   - f421fd0c42ea
   - fc7334661489
@@ -596,6 +601,7 @@ tools:
   owner: iuc
   revisions:
   - 1942e86e2ee1
+  - 292eea8defa7
   - d77802fe76f7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -653,6 +659,7 @@ tools:
 - name: argnorm
   owner: iuc
   revisions:
+  - 9125d3f45f4d
   - d8e95a03321a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -660,6 +667,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - a43aa384ead4
   - bd5630d401cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -781,5 +789,17 @@ tools:
   owner: iuc
   revisions:
   - 5fc148ebafbc
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: vg_paths
+  owner: iuc
+  revisions:
+  - 7f622ac47f04
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: vg_giraffe
+  owner: iuc
+  revisions:
+  - 479e4a566537
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
