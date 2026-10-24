@@ -34,6 +34,7 @@ tools:
 - name: xarray_mapplot
   owner: ecology
   revisions:
+  - 0a7399e79df6
   - 506b6d6880ff
   - d7479b6dfbe8
   tool_panel_section_id: gis_data_handling

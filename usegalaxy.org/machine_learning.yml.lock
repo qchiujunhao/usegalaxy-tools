@@ -37,6 +37,7 @@ tools:
   - 7d84cdd45c15
   - 8729f69e9207
   - 94cd9ac4a9b1
+  - a2e4242653ec
   - bbf30253c99f
   - c460abae83eb
   - c5150cceab47
@@ -57,6 +58,7 @@ tools:
   - 169276b820cc
   - 1dfc3ad13f43
   - 209b663a4f62
+  - 2c0dae52bcca
   - 2f5e307f31e8
   - '310868974972'
   - 49f73a3c12f3
@@ -303,6 +305,7 @@ tools:
   - 5023535e9f8b
   - 69c44aab684e
   - 7626ea9c2e1b
+  - 8eb081549c98
   - a36a45cb96fa
   - d37a7f17e35d
   - e5a5ad882f1f
@@ -376,6 +379,7 @@ tools:
   - 73e7f1c76ece
   - 7dd3fb35904f
   - 86d4c2b66e16
+  - 88bd281cdf65
   - 8eed73e8e04d
   - 981a0328d6bb
   - ad7e0b4291ee
@@ -416,6 +420,7 @@ tools:
   - 74adae8d7b0f
   - 96bb4c49e30e
   - 9e0e31bd8392
+  - a79e439ac817
   - a7c667ff83fe
   - ae0fafb53c1d
   - c2cd3219543a
@@ -625,6 +630,7 @@ tools:
   owner: bgruening
   revisions:
   - 03e0da430d44
+  - 1728b4a3895e
   - 24c1cc2dd4a4
   - 3af626081467
   - 945a53c248de

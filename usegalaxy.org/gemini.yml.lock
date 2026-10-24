@@ -22,11 +22,13 @@ tools:
   revisions:
   - 2270a8b83c12
   - 45296e47d565
+  - cca3391dc8b4
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
 - name: gemini_query
   owner: iuc
   revisions:
+  - 11fdbee540e5
   - 77a1e60fd1de
   - da74170c55c7
   tool_panel_section_id: gemini

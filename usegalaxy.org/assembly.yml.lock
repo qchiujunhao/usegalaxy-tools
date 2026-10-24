@@ -169,6 +169,7 @@ tools:
   owner: iuc
   revisions:
   - 152ff7d1817a
+  - 2c650dcc6190
   - 2cf8a2028ddc
   - 34305b013402
   - 4ae660dd1fb6
@@ -239,6 +240,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 263af8401aed
   - 33368fec3b70
   - 65d1598a9256
   - 7897763d14ec
