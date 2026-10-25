@@ -101,6 +101,7 @@ tools:
   revisions:
   - 443d9a9d6d11
   - 69264da0ce77
+  - c59e0acb4e0b
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
 - name: deeptools_bam_coverage

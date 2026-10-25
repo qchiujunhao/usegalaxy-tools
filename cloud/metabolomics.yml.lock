@@ -6,6 +6,7 @@ tools:
 - name: mfassignr_kmdnoise
   owner: recetox
   revisions:
+  - 61287368a95d
   - a7a823839ae3
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -37,6 +38,7 @@ tools:
   owner: recetox
   revisions:
   - 6c7b17d38a1d
+  - d3dfaa7496a2
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: mfassignr_findrecalseries
@@ -73,6 +75,7 @@ tools:
   owner: lecorguille
   revisions:
   - 3990a65b45a4
+  - 734dfb2af03a
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_merge
@@ -91,6 +94,7 @@ tools:
   owner: lecorguille
   revisions:
   - 33c0ca93f3ee
+  - ba20f926a460
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: checkformat
