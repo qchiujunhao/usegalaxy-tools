@@ -45,6 +45,8 @@ tools:
   owner: iuc
   revisions:
   - 1942e86e2ee1
+  - 25f3b474ca6f
+  - 292eea8defa7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: repeatmodeler
@@ -57,6 +59,7 @@ tools:
 - name: repeat_masker
   owner: bgruening
   revisions:
+  - 31763a56f1d7
   - ba6d2c32f797
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -66,6 +69,7 @@ tools:
   - 31f58ec0459a
   - 3f3e247c053d
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: busco
@@ -74,6 +78,7 @@ tools:
   - 2babe6d5c561
   - 4e70d88adf2f
   - c5a90fa4b8dd
+  - cc217867028e
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: ncbi_fcs_adaptor
@@ -85,6 +90,7 @@ tools:
 - name: compleasm
   owner: iuc
   revisions:
+  - c8913c72ee87
   - f421fd0c42ea
   - fc7334661489
   tool_panel_section_id: annotation
@@ -135,6 +141,7 @@ tools:
 - name: argnorm
   owner: iuc
   revisions:
+  - 9125d3f45f4d
   - d8e95a03321a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -142,6 +149,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - a43aa384ead4
   - bd5630d401cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -173,5 +181,18 @@ tools:
   owner: iuc
   revisions:
   - 321ceb58023e
+  - d0f5d9821854
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: vg_paths
+  owner: iuc
+  revisions:
+  - 7f622ac47f04
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: vg_giraffe
+  owner: iuc
+  revisions:
+  - 479e4a566537
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
