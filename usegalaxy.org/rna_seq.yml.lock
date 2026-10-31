@@ -52,6 +52,7 @@ tools:
   - 6f66ae7c5f7a
   - 90d16db017d7
   - a37612abf7f9
+  - ce3c9c1ac7ca
   - ce44c6f2ba38
   - ea04b737afa0
   - f3a5f075498f
@@ -201,6 +202,7 @@ tools:
   - 22cf48ad7b16
   - 6a6717a5f421
   - 86285ddd4512
+  - b6fd78078bb3
   - cf747d1bd79a
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -453,6 +455,7 @@ tools:
   - 0bcc35b10569
   - 1906cb429215
   - 206a71a69161
+  - 6d005443b243
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: mirdeep2_mapper
@@ -543,6 +546,7 @@ tools:
   - 298d81e5e138
   - b3f292d9f35d
   - d3377a16d881
+  - ecb3e2432f4f
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: brew3r_r

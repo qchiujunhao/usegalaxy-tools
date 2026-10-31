@@ -265,6 +265,7 @@ tools:
   owner: iuc
   revisions:
   - 0117c6d2ab96
+  - 1c7dee9f0bf8
   - 277719af4dd7
   - 3502f0e1f0e4
   - 46fcafba49ec
@@ -347,6 +348,7 @@ tools:
   - 39bca000353d
   - 3d21f507fc5d
   - 57f36434474f
+  - 60e73d60fe1a
   - 63aabc920911
   - 9ece72700ca9
   - d7d1663559e9
@@ -356,6 +358,7 @@ tools:
   owner: iuc
   revisions:
   - 1fd34b10d28e
+  - 26657b72001e
   - 444e6a756c35
   - 450a265f92e8
   - 66c4346e794f
@@ -387,6 +390,7 @@ tools:
   revisions:
   - '388983871932'
   - 591cc8518033
+  - 7aea930ab6cc
   - 999c1918479b
   - 9c0028888512
   - a2f8dc22d7c0
@@ -462,6 +466,7 @@ tools:
   revisions:
   - 05f317e50e61
   - 08296952d12f
+  - 2844fbbcaa92
   - 5ee777f9db23
   - 74303445f6bd
   - 81426b3cf18b
@@ -498,6 +503,7 @@ tools:
   - 5660b21a0dbd
   - a0c219ecb5e7
   - bf533509c5b6
+  - cd06642e9c20
   - ce9396ddcb2b
   - f59a4ab0e5b1
   - f65383c7ed49
@@ -568,6 +574,7 @@ tools:
   revisions:
   - 05652f267ebc
   - 18cf9de1cf73
+  - 2261ddc23215
   - 242753783b68
   - 2c80b0d6bde0
   - 77e0bd62b554
@@ -622,6 +629,7 @@ tools:
   - dd72ff87cfd0
   - f203ea355bc8
   - f4c8b2e8a808
+  - f62897ab1008
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_gtcheck

@@ -117,6 +117,7 @@ tools:
   - 09d6e4693887
   - 2953c43180c0
   - 435b157bed6d
+  - 4e7fc9795034
   - 606542a18f82
   - 791f73caa0c8
   - e0e2fd665102
@@ -199,6 +200,7 @@ tools:
   - 2e303fcd3b0c
   - 399b40b2bcab
   - 3c6952a2b0e4
+  - 4517996e7c99
   - 48ac4d611e92
   - abd806291372
   - b03c0b3e67a6
@@ -222,6 +224,7 @@ tools:
   - 2898012c5265
   - 3be27a9a7313
   - 53ce8be43212
+  - d90f9190eb27
   - fb0bb7174530
   - fd2d6e035c3f
   tool_panel_section_id: variant_calling
@@ -334,6 +337,7 @@ tools:
   - 01ccd366690d
   - 0da0b2dc624c
   - 45c2ec061cf9
+  - 4f7fb8cc6758
   - 6535dd4a4064
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling

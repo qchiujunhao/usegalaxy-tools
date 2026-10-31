@@ -156,6 +156,7 @@ tools:
   - 3701d29f7105
   - '499059586799'
   - 6f143dfe902a
+  - 8f8c0fdd625d
   - 923dcc644832
   - 93dd15e13e6a
   - ae1e5d9d8972
@@ -188,6 +189,7 @@ tools:
   revisions:
   - 3d748954434b
   - 43cb7b5a6fe7
+  - 637e50759b72
   - 7e8c677a7b71
   - 8db95f488f0f
   - 9ef202055d5c
@@ -757,6 +759,7 @@ tools:
   - 156e5b07369a
   - 5d5fe5659252
   - 6bccf5f85f92
+  - 923f6a60c92e
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_reduce_dimension

@@ -12,6 +12,7 @@ tools:
   - 21730620a849
   - 222c02df5d55
   - 4a229a7ad638
+  - 553b147da4e9
   - 5f9c0e99016f
   - 6fabdcde0214
   - 8334dc98c48e
@@ -52,6 +53,7 @@ tools:
   - 6cd09d7b5f37
   - 836d1aa3e89a
   - a6e57ff585c0
+  - eb55da80c5e2
   - edb534491f92
   - fd5dbf0f732e
   tool_panel_section_id: graph_display_data
@@ -85,6 +87,7 @@ tools:
   revisions:
   - 290a11559985
   - 4b519282a05b
+  - 6eeb8f9a22ea
   - a64dc31ab7f2
   - c4bde687c846
   - df7356989ac1
@@ -165,6 +168,7 @@ tools:
 - name: fasta_nucleotide_color_plot
   owner: iuc
   revisions:
+  - 0c8cba9badcf
   - e4b5401adcec
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
@@ -280,6 +284,7 @@ tools:
   - bd99e8fbde97
   - dbac244d2214
   - f1691de443a7
+  - fb6d30ca4ea6
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
 - name: pe_histogram
