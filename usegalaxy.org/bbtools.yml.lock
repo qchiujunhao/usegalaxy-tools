@@ -16,6 +16,7 @@ tools:
   - bf0cb5dd02f2
   - d1f62024a08b
   - d58c27d2c5a7
+  - e629753431f5
   tool_panel_section_id: bbtools
   tool_panel_section_label: BBTools
 - name: bbtools_bbmap
@@ -87,6 +88,7 @@ tools:
   - 654c9da47f74
   - 7ad0f4bfa923
   - 8deeb4c5448b
+  - a0299487d224
   - cbc75076778f
   - ce13b4678f18
   - e4fb34b79770
