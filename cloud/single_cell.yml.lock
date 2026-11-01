@@ -269,6 +269,7 @@ tools:
   owner: iuc
   revisions:
   - 46fc6751d746
+  - 7022861faab0
   - c99ba278dfa9
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
