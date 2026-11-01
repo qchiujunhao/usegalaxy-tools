@@ -37,6 +37,7 @@ tools:
 - name: lofreq_filter
   owner: iuc
   revisions:
+  - 3e0e44d971d5
   - 7dfca164d2e3
   - 950d1d49d678
   tool_panel_section_id: variant_calling
@@ -45,6 +46,7 @@ tools:
   owner: iuc
   revisions:
   - 09d6e4693887
+  - 4e7fc9795034
   - 791f73caa0c8
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling

@@ -51,6 +51,7 @@ tools:
   revisions:
   - 0afd970bd8ae
   - 1dfc3ad13f43
+  - 2c0dae52bcca
   - 4bd75b45a7a1
   - 575cb355247c
   - 6708cb8547bc
@@ -143,11 +144,13 @@ tools:
   owner: bgruening
   revisions:
   - 3b8fa4ea9727
+  - 3fbbea66522d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_stacking_ensemble_models
   owner: bgruening
   revisions:
+  - 848d5a2bdf61
   - b94babda32e4
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -166,6 +169,7 @@ tools:
 - name: sklearn_model_validation
   owner: bgruening
   revisions:
+  - 5a26080a4f96
   - 7e5631773cea
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -215,6 +219,7 @@ tools:
   owner: bgruening
   revisions:
   - 048d7bd59326
+  - d0f0767072b2
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_regression_metrics
@@ -333,5 +338,6 @@ tools:
   revisions:
   - 0e86b191f856
   - 88244f1bdfcf
+  - efb526b25ff4
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
