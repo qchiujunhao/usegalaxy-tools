@@ -6,6 +6,7 @@ tools:
 - name: filter_tabular
   owner: iuc
   revisions:
+  - 26fc6cf774d4
   - 557ec8d7087d
   - 6544e4b87a4f
   - 90f657745fea
@@ -14,6 +15,7 @@ tools:
 - name: query_tabular
   owner: iuc
   revisions:
+  - a8e9456dbead
   - cf34c344508d
   - cf4397560712
   tool_panel_section_id: text_manipulation
@@ -25,7 +27,9 @@ tools:
   - 427903d47026
   - 61f9ddbc63ca
   - 6595517c2dd8
+  - 9bc5cdefb090
   - aff5135563c6
+  - b6236eb1a50b
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
 - name: sqlite_to_tabular
@@ -64,6 +68,8 @@ tools:
   - 3bf5661c0280
   - 56a8da1f2243
   - 60ff16842fcd
+  - 6fb9abd4a64a
+  - c656214aa052
   - cd36d6e45e29
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
@@ -85,6 +91,7 @@ tools:
 - name: text_processing
   owner: bgruening
   revisions:
+  - 30b60202d990
   - 3dc70b59608c
   - 6073bb457ec0
   - 74a8bef53a00
@@ -129,6 +136,7 @@ tools:
   revisions:
   - 2040e4c2750a
   - 372967836e98
+  - 6428adb323eb
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
 - name: column_order_header_sort
