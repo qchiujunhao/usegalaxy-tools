@@ -115,6 +115,7 @@ tools:
   owner: iuc
   revisions:
   - 11e5408fd238
+  - 868053394d61
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: rnaspades
@@ -239,6 +240,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 263af8401aed
   - 33368fec3b70
   - 65d1598a9256
   - 7897763d14ec
@@ -391,6 +393,7 @@ tools:
   - 7c9417381ad5
   - 9ec9c22767c8
   - c4fb391275a0
+  - da25e82a51a8
   - ff02cf8f66f0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -444,6 +447,7 @@ tools:
   revisions:
   - 015283de3004
   - 24e471d13fe9
+  - 806d8eeb716b
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: aegean_parseval
@@ -623,6 +627,7 @@ tools:
   owner: iuc
   revisions:
   - 34245579d255
+  - 825d9ecf8e62
   - 8779f4d2d04d
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -639,6 +644,7 @@ tools:
   revisions:
   - 0cae005d8c4c
   - 73ddd200456a
+  - 92620e417940
   - ec82f2b95e89
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly

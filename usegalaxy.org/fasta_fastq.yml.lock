@@ -32,6 +32,7 @@ tools:
   - c0b2c2e39c9c
   - c5e2e5902201
   - de6cebe3c043
+  - e075c7e866d1
   - e4691e1589d3
   - f5fdf41c08b8
   - f6168dd17f82
@@ -89,11 +90,13 @@ tools:
   - 177f0621c266
   - 6027ef51ef91
   - 7566b751e769
+  - b3c10a950efa
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastx_clipper
   owner: devteam
   revisions:
+  - 5bd863921cc5
   - 736b8f6ee456
   - 90858c306551
   - b8658f852bc7
@@ -291,6 +294,7 @@ tools:
   - 07497255281e
   - 72494a86e047
   - 7ce1891db6f5
+  - cd11b0508361
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastq_trimmer
@@ -298,6 +302,7 @@ tools:
   revisions:
   - 2d0d13b0b0f1
   - 33794bdb7fe0
+  - 8b70bb07960c
   - b63b2bfb3ea3
   - f0b18efb97f1
   - fe86fb89562d
@@ -478,6 +483,7 @@ tools:
 - name: fasta_regex_finder
   owner: mbernt
   revisions:
+  - 5a6ec4585bc9
   - 9a811adb714f
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ

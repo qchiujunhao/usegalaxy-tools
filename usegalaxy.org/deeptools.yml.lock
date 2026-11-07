@@ -7,6 +7,7 @@ tools:
   owner: bgruening
   revisions:
   - 10301d137111
+  - 43b85f471fe2
   - 6662b1a8d326
   - aac8444d6681
   - c361b12d207a
@@ -22,6 +23,7 @@ tools:
   - 2d2cf5c1ea8a
   - 4df95152a39e
   - 7a7fd0f5f15d
+  - 7dcc58a57476
   - bb1e4f63e0e6
   - c2b4dd18f09d
   - fe7cc56090ea
@@ -168,6 +170,7 @@ tools:
 - name: deeptools_bam_compare
   owner: bgruening
   revisions:
+  - 09d1214b45d1
   - 268e91e540ee
   - 29451af70c52
   - c89b665b45e4
