@@ -64,6 +64,7 @@ tools:
   - 112d80c9ccca
   - 476189b83931
   - af03f3398f03
+  - c5d30f16c6c0
   - e0448bc48085
   - eb6f0ec5b95e
   tool_panel_section_id: evolution
@@ -73,6 +74,7 @@ tools:
   revisions:
   - 1d2ec0b0a0a7
   - 4e68161336da
+  - 5879d2d024a2
   - 84849140a3bc
   - bdaadfd0c843
   - c176164dc8a5
@@ -84,6 +86,7 @@ tools:
   revisions:
   - 98f2b5dfdaa9
   - b15fbf90db53
+  - fa57de3b66b0
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution
 - name: phykit

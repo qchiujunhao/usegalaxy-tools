@@ -27,12 +27,14 @@ tools:
   - 885459e1c83b
   - a05b6a392ff0
   - ad4d42fabf32
+  - ed51b2277b0d
   tool_panel_section_id: transposon_insertion_sequencing
   tool_panel_section_label: Transposon Insertion Sequencing
 - name: transit_hmm
   owner: iuc
   revisions:
   - 532a84f0de1e
+  - 6dbde7d2485e
   - 7db455b6434b
   - d6b029a6de63
   tool_panel_section_id: transposon_insertion_sequencing

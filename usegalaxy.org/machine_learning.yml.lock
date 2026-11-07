@@ -376,6 +376,7 @@ tools:
   - 73e7f1c76ece
   - 7dd3fb35904f
   - 86d4c2b66e16
+  - 88bd281cdf65
   - 8eed73e8e04d
   - 981a0328d6bb
   - ad7e0b4291ee
@@ -516,6 +517,7 @@ tools:
   - d3fe6fcc6bf4
   - d4808d5b83da
   - dc4b5fd604a6
+  - fd703ccdab66
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_model_fit
@@ -528,6 +530,7 @@ tools:
   - 8e447b95e6a8
   - 9084156b2bb5
   - a293d7937700
+  - aaf492da76d4
   - adb084b901cc
   - f0ede473a7e8
   - fb17e19b62a4
@@ -610,6 +613,7 @@ tools:
   owner: bgruening
   revisions:
   - 16c442ecd6bf
+  - 19e086c622db
   - 1b7ab45c7858
   - 27f8bd20a936
   - 3045d322d4ac
@@ -693,6 +697,7 @@ tools:
   owner: bgruening
   revisions:
   - 9c320e113a6d
+  - e2e821fefc69
   - e6c626b3013b
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -707,6 +712,7 @@ tools:
   owner: bgruening
   revisions:
   - 5f69690716cb
+  - bd20c938f6c4
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: flexynesis_utils
@@ -714,5 +720,6 @@ tools:
   revisions:
   - 0e86b191f856
   - 88244f1bdfcf
+  - efb526b25ff4
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning

@@ -8,6 +8,7 @@ tools:
   revisions:
   - 4a82d1157b14
   - 4d3eff1bc421
+  - 7e9b2f60c9e1
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
 - name: data_manager_bowtie2_index_builder
@@ -55,6 +56,7 @@ tools:
 - name: data_manager_hisat2_index_builder
   owner: iuc
   revisions:
+  - 596dfee9e3bc
   - d74c740bdb25
   - e4f36467bb51
   tool_panel_section_id: data_managers

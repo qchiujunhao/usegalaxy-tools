@@ -150,6 +150,7 @@ tools:
   owner: iuc
   revisions:
   - 637ec5d5368c
+  - 6ecd78daae1b
   - 96e6283e4745
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -217,6 +218,7 @@ tools:
   revisions:
   - 1f5641a52664
   - 31812e7a1315
+  - 578b60b1279d
   - ded48b36f3b7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -227,6 +229,7 @@ tools:
   - 0e07bc110728
   - 4f85da43b40c
   - 8994fea8fbde
+  - 8fbb0629a99d
   - 91eee66904fe
   - b095c69eab5b
   - b0f07e3d6f07
@@ -237,6 +240,7 @@ tools:
 - name: optitype
   owner: iuc
   revisions:
+  - 9615db65e2e7
   - fd974c5df8bc
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -252,6 +256,7 @@ tools:
   owner: iuc
   revisions:
   - 15ac71df11a0
+  - 3f12675edf68
   - 78608ec02d62
   - 809e42326fc2
   - 91887494eb97
@@ -329,6 +334,7 @@ tools:
   - 2b21643ce8d7
   - 36093854bfc7
   - 8bc80c2a15b3
+  - d221bf907235
   - edcf603bedfd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -337,6 +343,7 @@ tools:
   revisions:
   - 012171ba9fce
   - 42b38f6d9f68
+  - 92390a2cbb12
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: find_nested_alt_orfs
@@ -383,6 +390,7 @@ tools:
   - 1eafcc450052
   - 65c38d020fea
   - eb35257d2e29
+  - f7746d145125
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: clinod
@@ -405,6 +413,7 @@ tools:
 - name: freyja_demix
   owner: iuc
   revisions:
+  - 2b618ed582da
   - 53b22b7dff19
   - 945b31d82638
   - c0a0e79d7196
@@ -430,6 +439,7 @@ tools:
   owner: iuc
   revisions:
   - 373c1735d31f
+  - 44c396b0f5e1
   - 9f1660129403
   - cd0484c5f9f1
   - d58a57db7a96
@@ -547,6 +557,7 @@ tools:
   revisions:
   - 20d725740701
   - 6b20d051d0dc
+  - fb8b3a37ac9c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: amrfinderplus
@@ -560,6 +571,7 @@ tools:
   revisions:
   - 7109a27a11db
   - 8f20a5b9b282
+  - c8913c72ee87
   - cfec9601b25d
   - f421fd0c42ea
   - fc7334661489
@@ -582,6 +594,7 @@ tools:
 - name: icescreen
   owner: iuc
   revisions:
+  - 7768e94eebdd
   - cca2a89210ae
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -596,6 +609,7 @@ tools:
   owner: iuc
   revisions:
   - 1942e86e2ee1
+  - c03be23045b7
   - d77802fe76f7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -653,6 +667,7 @@ tools:
 - name: argnorm
   owner: iuc
   revisions:
+  - 9125d3f45f4d
   - d8e95a03321a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -660,6 +675,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - a43aa384ead4
   - bd5630d401cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -708,6 +724,7 @@ tools:
 - name: hmmer_alimask
   owner: iuc
   revisions:
+  - c18dbffbc454
   - e3e5f208e93c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -715,11 +732,13 @@ tools:
   owner: iuc
   revisions:
   - 71863d3bf721
+  - e26abfad8ce5
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer_hmmbuild
   owner: iuc
   revisions:
+  - 104799b39986
   - 4b996c837ec8
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -727,11 +746,13 @@ tools:
   owner: iuc
   revisions:
   - a9dace1a1e36
+  - cbf88bb8b945
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer_hmmemit
   owner: iuc
   revisions:
+  - 544bf9c95490
   - be03abdc6451
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -745,11 +766,13 @@ tools:
   owner: iuc
   revisions:
   - 4a54e4c9188b
+  - ec70edb4acd4
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer_hmmsearch
   owner: iuc
   revisions:
+  - 08cbaba779b2
   - df7a52791be9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -757,17 +780,20 @@ tools:
   owner: iuc
   revisions:
   - 9fdeca68a6b5
+  - b2f12ceedacf
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer_nhmmer
   owner: iuc
   revisions:
+  - 1a1e39306e04
   - 54b92ae4f75b
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer_nhmmscan
   owner: iuc
   revisions:
+  - e20829923d8b
   - fb1305d0d1c6
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -775,6 +801,7 @@ tools:
   owner: iuc
   revisions:
   - 37bcc9fb0bb1
+  - b68f1c97f63d
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: psauron
