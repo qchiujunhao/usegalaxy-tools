@@ -114,6 +114,7 @@ tools:
 - name: heatmap
   owner: ethevenot
   revisions:
+  - a17fd6d6ef90
   - b1667c118127
   tool_panel_section_id: statistics
   tool_panel_section_label: Statistics
@@ -150,6 +151,7 @@ tools:
 - name: iwtomics_loadandplot
   owner: iuc
   revisions:
+  - 34abac8eb3e7
   - ce633cc8f5f9
   tool_panel_section_id: statistics
   tool_panel_section_label: Statistics
