@@ -22,6 +22,7 @@ tools:
   owner: devteam
   revisions:
   - '144275714590'
+  - 242f90a25c1d
   - 81a9090d6df3
   - ff7d49ec777f
   tool_panel_section_id: fasta_fastq
@@ -60,6 +61,7 @@ tools:
 - name: fastq_paired_end_interlacer
   owner: devteam
   revisions:
+  - 060e4a536555
   - 2ccb8dcabddc
   - acb5090e281f
   - b41c2c1bcfbf
@@ -133,6 +135,7 @@ tools:
   owner: devteam
   revisions:
   - 516b97a23d7e
+  - 59a3ca730b16
   - e773f1eb16cf
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -167,6 +170,7 @@ tools:
   - 058bb29e28ba
   - 37d67c252fed
   - aef1eea2058c
+  - df19b13caeb8
   - f0409baac2cd
   - f109ce5dbfe2
   tool_panel_section_id: fasta_fastq
@@ -182,6 +186,7 @@ tools:
   revisions:
   - 0d9d8de82304
   - 0e0b003c711f
+  - b441f51f88b7
   - c669e8550c46
   - d35d114c26a7
   tool_panel_section_id: fasta_fastq

@@ -9,11 +9,13 @@ tools:
   - 24313e0ff049
   - 304ac5b49dea
   - 66acaec9f386
+  - fd8ed3767ebb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken2
   owner: iuc
   revisions:
+  - 1a54e1867fd4
   - 20e2f64aa1fe
   - 241a78eb2935
   - cbe396d9773e
@@ -29,6 +31,7 @@ tools:
 - name: recentrifuge
   owner: iuc
   revisions:
+  - 2ef21eba2d01
   - 613ee22af97c
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -156,6 +159,7 @@ tools:
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
+  - 01a54504b6aa
   - e9005d1f3cfd
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -207,6 +211,7 @@ tools:
   revisions:
   - 4bba91a89457
   - 68129ce1c59b
+  - 9e5c3d358b2c
   - a14a18a47c36
   - dd6572434618
   tool_panel_section_id: metagenomic_analysis
@@ -225,6 +230,7 @@ tools:
   owner: iuc
   revisions:
   - 273b8a00c8a2
+  - 46680b007c51
   - 646c58820267
   - a35c40af067f
   - c920e1400f98
@@ -356,6 +362,7 @@ tools:
 - name: comebin
   owner: iuc
   revisions:
+  - 7e66a24282a7
   - ddfb9c10740a
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
