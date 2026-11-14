@@ -189,6 +189,7 @@ tools:
   owner: bgruening
   revisions:
   - 253b3aaf0d91
+  - 848d5a2bdf61
   - ae4b593c99f8
   - b78007bf1cb8
   - b8378d4791b7
@@ -227,6 +228,7 @@ tools:
   - 867caa39eaa4
   - 89deaf399ff7
   - 9fda0b82f419
+  - aa243478bb94
   - adaf2457d6ec
   - bd27a211182a
   - c9ddd20d25d0
@@ -327,6 +329,7 @@ tools:
   - 9c3e1d3235c8
   - b1eda492f063
   - bc0117538945
+  - bf5b6f5a18ed
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_pairwise_metrics
@@ -394,6 +397,7 @@ tools:
   - 1682df52c084
   - 1a53edc4b438
   - 315f01a9d2c2
+  - 398c7e90ded2
   - 3ab7af14f1b5
   - 407495139a09
   - 4ecc0ce9d0a2
@@ -435,6 +439,7 @@ tools:
   - 761269451e98
   - 80074b842ebd
   - 826c3e68e7a9
+  - 9452bddf21bd
   - a5c2ce4ea328
   - add3c3a7c2b4
   - dde13d557dc4
@@ -516,6 +521,7 @@ tools:
   - d3fe6fcc6bf4
   - d4808d5b83da
   - dc4b5fd604a6
+  - fd703ccdab66
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_model_fit
@@ -563,6 +569,7 @@ tools:
   - 22e73afd5206
   - 4a1cd790e323
   - 61fb99c55558
+  - 6ff5b1978b0c
   - 9a3cb21a3661
   - bfc44324a773
   - c2a7717d96ce

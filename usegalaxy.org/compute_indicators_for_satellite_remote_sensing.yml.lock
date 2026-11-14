@@ -24,6 +24,7 @@ tools:
 - name: srs_spectral_indices
   owner: ecology
   revisions:
+  - 76ff9a73cb01
   - b40aba3d9e5c
   tool_panel_section_id: compute_indicators_for_satellite_remote_sensing
   tool_panel_section_label: Compute indicators for satellite remote sensing

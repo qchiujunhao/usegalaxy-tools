@@ -21,6 +21,7 @@ tools:
   - 9a169729c9f9
   - 9b0cdb8cf6be
   - aa0c474463c2
+  - cef59fc213c7
   - f7446fd8d5e7
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -78,6 +79,7 @@ tools:
   - 5342ce58cd1e
   - 56c0d4acef02
   - 7b9fafe32c86
+  - 9428a84a77bd
   - 94c19fb1281c
   - 9f354c7c8c92
   - a407e7f8bdc1
@@ -747,6 +749,7 @@ tools:
   owner: iuc
   revisions:
   - 6154937135c7
+  - 98bb79188c3f
   - c520f64ffd57
   - fee4b4eb0ef5
   tool_panel_section_id: single_cell

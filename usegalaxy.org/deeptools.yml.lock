@@ -140,6 +140,7 @@ tools:
   revisions:
   - 26983857c91a
   - 2bc10a9ca58b
+  - 38ef4853d0f5
   - 56d5b797ce84
   - 5be24eba848d
   - b8858746dc1f
@@ -153,6 +154,7 @@ tools:
   - 3d211717a775
   - 71aa86af6762
   - 7989c6ddf634
+  - dc53544cb243
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
 - name: deeptools_bam_pe_fragmentsize
