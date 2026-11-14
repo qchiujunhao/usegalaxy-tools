@@ -252,6 +252,7 @@ tools:
   owner: iuc
   revisions:
   - 15ac71df11a0
+  - 3f12675edf68
   - 78608ec02d62
   - 809e42326fc2
   - 91887494eb97
@@ -399,6 +400,7 @@ tools:
   revisions:
   - 1563b58905f4
   - 554aa2a63f04
+  - b0e8176203e1
   - fa7086274673
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -582,6 +584,7 @@ tools:
 - name: icescreen
   owner: iuc
   revisions:
+  - 7768e94eebdd
   - cca2a89210ae
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -696,6 +699,7 @@ tools:
 - name: orthofinder_onlygroups
   owner: iuc
   revisions:
+  - 27dc25864cb7
   - b6ec80429d54
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -750,6 +754,7 @@ tools:
 - name: hmmer_hmmsearch
   owner: iuc
   revisions:
+  - 08cbaba779b2
   - df7a52791be9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -757,6 +762,7 @@ tools:
   owner: iuc
   revisions:
   - 9fdeca68a6b5
+  - b2f12ceedacf
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer_nhmmer
@@ -768,6 +774,7 @@ tools:
 - name: hmmer_nhmmscan
   owner: iuc
   revisions:
+  - e20829923d8b
   - fb1305d0d1c6
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation

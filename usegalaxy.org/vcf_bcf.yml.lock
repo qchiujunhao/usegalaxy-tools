@@ -6,6 +6,7 @@ tools:
 - name: vcffilter
   owner: devteam
   revisions:
+  - 1ce46fc2168a
   - 4bdc111b2470
   - 81972652519c
   - fa24bf0598f4
@@ -14,6 +15,7 @@ tools:
 - name: vcfdistance
   owner: devteam
   revisions:
+  - 359c94784f55
   - 48e458c721b3
   - 5822b40f3037
   tool_panel_section_id: vcf_bcf
@@ -21,6 +23,7 @@ tools:
 - name: vcfselectsamples
   owner: devteam
   revisions:
+  - 019656c5fb3d
   - 2ba3b87f904f
   - 958b6484a7f1
   tool_panel_section_id: vcf_bcf
@@ -53,6 +56,7 @@ tools:
   revisions:
   - 17096387c0e6
   - d226a7327946
+  - e87a701d9452
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfleftalign
@@ -158,6 +162,7 @@ tools:
   revisions:
   - 57a16b310fe8
   - a8a4f94aa321
+  - ae033778a61c
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfaddinfo
@@ -433,6 +438,7 @@ tools:
   - 012656fd329f
   - 04aa97fc125c
   - 348cd212dbad
+  - 685f181d5378
   - 7ca6120cb2a4
   - 7cea7c7bf203
   - a20d6492132d

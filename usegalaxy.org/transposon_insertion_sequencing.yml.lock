@@ -27,6 +27,7 @@ tools:
   - 885459e1c83b
   - a05b6a392ff0
   - ad4d42fabf32
+  - ed51b2277b0d
   tool_panel_section_id: transposon_insertion_sequencing
   tool_panel_section_label: Transposon Insertion Sequencing
 - name: transit_hmm
@@ -40,6 +41,7 @@ tools:
 - name: transit_gumbel
   owner: iuc
   revisions:
+  - 3b1e4eb22a7c
   - 8fc50fe60127
   - a6c8b6e47c51
   - f50807720df1

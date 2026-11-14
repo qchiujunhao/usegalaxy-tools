@@ -25,6 +25,7 @@ tools:
   owner: recetox
   revisions:
   - 9654573e6889
+  - df906aafac0d
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: mfassignr_snplot
@@ -55,6 +56,7 @@ tools:
   owner: recetox
   revisions:
   - 1b4881c150cc
+  - eea4113efc99
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: mfassignr_recal

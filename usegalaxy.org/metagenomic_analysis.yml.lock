@@ -52,6 +52,7 @@ tools:
   owner: iuc
   revisions:
   - 0148e5cf20b2
+  - 9e3206d6c148
   - f9966e11885b
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -168,6 +169,7 @@ tools:
   owner: iuc
   revisions:
   - 21bf2f07f3f3
+  - 775131a4d84b
   - 8dfc90f35aba
   - acd9fe45eb81
   tool_panel_section_id: metagenomic_analysis
@@ -306,6 +308,7 @@ tools:
   - 96336c6a2bb7
   - b35a5e8ff0fe
   - b762f4d54f78
+  - d16fa2560df4
   - f79565b12646
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -407,6 +410,7 @@ tools:
   owner: iuc
   revisions:
   - 06d1d91c67e5
+  - 3d3a5a25327d
   - 570505540a7b
   - 77410799e8e9
   - b3d513c7093e
@@ -437,6 +441,7 @@ tools:
   - 55109291a355
   - 65b382bf9b7c
   - c018a72b523e
+  - df7bcd680b4f
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: khmer_filter_abundance
@@ -658,6 +663,7 @@ tools:
 - name: recentrifuge
   owner: iuc
   revisions:
+  - 2ef21eba2d01
   - 591175c0f051
   - 612df2a5054f
   - 613ee22af97c
@@ -785,6 +791,7 @@ tools:
   owner: iuc
   revisions:
   - '482705438671'
+  - 504a555b2bfb
   - 8345d273ba82
   - c3735bcc9cb8
   - dcbbec865b86
@@ -904,6 +911,7 @@ tools:
 - name: semibin
   owner: iuc
   revisions:
+  - 0689d28fecdf
   - 99ff9221182c
   - afee33334a63
   - b5a7583b8db0
@@ -1108,6 +1116,7 @@ tools:
 - name: kegg_pathways_completeness
   owner: iuc
   revisions:
+  - 76ad4572eea4
   - 78990897aa94
   - 9933e2f91584
   tool_panel_section_id: metagenomic_analysis
@@ -1151,6 +1160,7 @@ tools:
 - name: comebin
   owner: iuc
   revisions:
+  - 7e66a24282a7
   - ddfb9c10740a
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
