@@ -143,6 +143,7 @@ tools:
   owner: bgruening
   revisions:
   - 3b8fa4ea9727
+  - 3fbbea66522d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_stacking_ensemble_models
@@ -173,12 +174,14 @@ tools:
   owner: bgruening
   revisions:
   - 4aa3666b66fa
+  - 8797bedbba8e
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_sample_generator
   owner: bgruening
   revisions:
   - 6cf2a66c46f1
+  - cb2cfcaf6ba8
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_pairwise_metrics
@@ -197,12 +200,14 @@ tools:
   owner: bgruening
   revisions:
   - 1bdac8249aa1
+  - 88bd281cdf65
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_feature_selection
   owner: bgruening
   revisions:
   - 5bcf779d901f
+  - a79e439ac817
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_data_preprocess
@@ -215,6 +220,7 @@ tools:
   owner: bgruening
   revisions:
   - 048d7bd59326
+  - d0f0767072b2
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_regression_metrics
@@ -287,6 +293,7 @@ tools:
   owner: bgruening
   revisions:
   - 602b5fb7ef09
+  - a1478b43a349
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: create_tool_recommendation_model
@@ -304,6 +311,7 @@ tools:
 - name: flexynesis
   owner: bgruening
   revisions:
+  - 09749ea1dabd
   - 6eb6d8e78d06
   - d1dc88960179
   tool_panel_section_id: machine_learning

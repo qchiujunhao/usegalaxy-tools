@@ -91,6 +91,7 @@ tools:
   owner: lecorguille
   revisions:
   - 33c0ca93f3ee
+  - ba20f926a460
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: checkformat
