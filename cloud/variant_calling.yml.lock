@@ -61,6 +61,7 @@ tools:
 - name: snpsift_genesets
   owner: iuc
   revisions:
+  - 333c2f24e479
   - 60d04e5f3dcf
   - d12a810c837e
   tool_panel_section_id: variant_calling
@@ -69,6 +70,7 @@ tools:
   owner: iuc
   revisions:
   - 4e21e4f2bc48
+  - 90cf787c022c
   - cff5bd9c728d
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
