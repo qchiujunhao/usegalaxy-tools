@@ -24,6 +24,7 @@ tools:
 - name: trimmomatic
   owner: pjbriggs
   revisions:
+  - 771554c05a0b
   - 898b67846b47
   - b9aaed85cbd1
   - d94aff5ee623
@@ -43,6 +44,8 @@ tools:
   - 5e33b465d8d5
   - 75c93c70d094
   - 862943c10425
+  - 94b6bea727ae
+  - 97255f6fdf7e
   - 9a913cdee30e
   - a7e081ceb76a
   - abfd8a6544d7
@@ -96,6 +99,7 @@ tools:
   - 02befcb391f5
   - 1ee282794de3
   - 654b3a274ed5
+  - dbd2e239117c
   tool_panel_section_id: fastq_quality_control
   tool_panel_section_label: FASTQ Quality Control
 - name: fastqe
