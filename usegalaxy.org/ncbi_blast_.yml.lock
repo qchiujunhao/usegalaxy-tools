@@ -9,6 +9,7 @@ tools:
   - 0e3cf9594bb7
   - 2889433c7ae1
   - 5edc472ec434
+  - 71a9b71a2fa1
   - a52d2d93e595
   - cbf3f518b668
   - d999e774072a
@@ -19,6 +20,7 @@ tools:
 - name: kraken2
   owner: iuc
   revisions:
+  - 1a54e1867fd4
   - 20e2f64aa1fe
   - 241a78eb2935
   - 328c607150ff
