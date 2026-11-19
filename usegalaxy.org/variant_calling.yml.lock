@@ -46,6 +46,7 @@ tools:
   revisions:
   - 0abc5513f795
   - 2b3e65a4252f
+  - 2d6319686ea3
   - 2e497a770bca
   - 5fab4f81391d
   tool_panel_section_id: variant_calling
@@ -59,6 +60,7 @@ tools:
   - 3e954e7125bf
   - 85dc96ebc770
   - a5937157062f
+  - c752293b798c
   - e698621cca1f
   - ef2c525bd8cd
   tool_panel_section_id: variant_calling
@@ -128,10 +130,12 @@ tools:
   revisions:
   - 03627f24605f
   - 074d44697036
+  - 14af3b671440
   - 31216d510164
   - 3b4b2121842f
   - 4805fe3d8fda
   - 65432c3abf6c
+  - 72d76a5adbc9
   - b11e8e9c23bf
   - dfadc322b065
   - e1461b5c52a0
@@ -140,6 +144,7 @@ tools:
 - name: lofreq_filter
   owner: iuc
   revisions:
+  - 3e0e44d971d5
   - 6f9ffff040ce
   - 701d134358ad
   - 7dfca164d2e3
@@ -151,8 +156,10 @@ tools:
 - name: lofreq_indelqual
   owner: iuc
   revisions:
+  - 07cd2a0e530d
   - 2ae554b4bcca
   - 354b534eeab7
+  - 4165b712b569
   - 426d707dfc47
   - 5d6a078d30b0
   - 971e07ca4456
@@ -163,12 +170,14 @@ tools:
 - name: lofreq_viterbi
   owner: iuc
   revisions:
+  - 3330ebe7c0c7
   - 33a416e1659e
   - aa35ee7f3ab2
   - af7e416d8176
   - cdaab621d454
   - dbd9f2db9ed8
   - ecd80c7c3886
+  - facfecd498e4
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: basil
@@ -354,5 +363,11 @@ tools:
   - 703a2cb3fb38
   - 7a5a2d28c539
   - 88e27e10b1ed
+  tool_panel_section_id: variant_calling
+  tool_panel_section_label: Variant Calling
+- name: happy
+  owner: iuc
+  revisions:
+  - a5444c30823d
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
