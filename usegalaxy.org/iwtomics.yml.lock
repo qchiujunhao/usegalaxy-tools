@@ -19,5 +19,6 @@ tools:
   owner: iuc
   revisions:
   - 1bc9150ed125
+  - 7db40b986b82
   tool_panel_section_id: iwtomics
   tool_panel_section_label: IWTomics

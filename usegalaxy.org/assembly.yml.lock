@@ -22,6 +22,7 @@ tools:
   - 88c240872a65
   - 8f9f06995f98
   - 9e3e80cc4ad4
+  - b7c5344b12de
   - d10bdad2fd17
   - e022dff952df
   tool_panel_section_id: assembly
@@ -37,6 +38,7 @@ tools:
   - 7594365c546b
   - 875d0f36d66f
   - a3b35edea53a
+  - baeffe7bfe47
   - ebb0dcdb621a
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -92,6 +94,7 @@ tools:
   revisions:
   - 04d81e5f25e9
   - 05c394313b1c
+  - 5381d83e9492
   - 697c9156dafe
   - 9638ba70882c
   - 99ecfdafc64f
@@ -130,6 +133,7 @@ tools:
   - 5bd3f053c303
   - 5fc94b3a4704
   - 675ee1aa5952
+  - 87ab790abdf6
   - 9e58ff014088
   - a8a278849c18
   - e122f9101584
@@ -253,6 +257,7 @@ tools:
   revisions:
   - 067592b6b312
   - 21e491ad532a
+  - 86ec2f06de3c
   - 94fe43e75ddc
   - b2860df42e16
   - b9e31c5c01c7
@@ -391,6 +396,7 @@ tools:
   - 7c9417381ad5
   - 9ec9c22767c8
   - c4fb391275a0
+  - da25e82a51a8
   - ff02cf8f66f0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -674,6 +680,7 @@ tools:
   revisions:
   - 321ceb58023e
   - 6c1cfce7c2eb
+  - d0f5d9821854
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: fastga

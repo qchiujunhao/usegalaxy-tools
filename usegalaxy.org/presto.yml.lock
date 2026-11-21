@@ -29,6 +29,7 @@ tools:
   - 1f3ae16f3655
   - 620f3b0a1430
   - 824d24bfe8dd
+  - db92214b1699
   tool_panel_section_id: presto
   tool_panel_section_label: pRESTO
 - name: presto_parselog
@@ -54,6 +55,7 @@ tools:
   revisions:
   - 49e7407445c3
   - 7bdff30820bf
+  - 94673124f853
   - eed465eb14a3
   - f47efbc66fad
   tool_panel_section_id: presto
@@ -79,6 +81,7 @@ tools:
 - name: presto_collapseseq
   owner: iuc
   revisions:
+  - 1d2b0f9dac7b
   - 3364fd7073ca
   - 852e7ca7f7de
   - c60bd515e46d

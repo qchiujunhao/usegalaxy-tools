@@ -11,6 +11,7 @@ tools:
   - 58c35179ebf0
   - 708348a17fa1
   - d6f5fa4ee473
+  - df0082f25f47
   - e827f9aae031
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -38,6 +39,7 @@ tools:
   - 6c19daec423d
   - b12d81af0291
   - f4af63aaf57a
+  - f6ff91cb3120
   - fbf98f24097b
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -52,6 +54,7 @@ tools:
   - 6f66ae7c5f7a
   - 90d16db017d7
   - a37612abf7f9
+  - ce3c9c1ac7ca
   - ce44c6f2ba38
   - ea04b737afa0
   - f3a5f075498f
@@ -63,6 +66,7 @@ tools:
   revisions:
   - 62adf13b86ea
   - 74ec758e63a4
+  - 98fd01004439
   - 9a7c5b6d8f1e
   - 9fd8b69e6e68
   - b47c006d90c5
@@ -79,6 +83,7 @@ tools:
   - 914cfcba0ec8
   - 92198ab2345f
   - ae618321f34a
+  - c44f3c61f41c
   - cbf488da3b2c
   - cef79931dda5
   - eba36e001f45
@@ -87,6 +92,7 @@ tools:
 - name: salmon
   owner: bgruening
   revisions:
+  - 0080a42718be
   - 15cd64d7c58b
   - 30d90b851d3c
   - 49121db48873
@@ -232,6 +238,7 @@ tools:
 - name: egsea
   owner: iuc
   revisions:
+  - 183afb27bcf1
   - 31ea4992b948
   - fba1660fb717
   tool_panel_section_id: rna_seq
@@ -293,6 +300,7 @@ tools:
   - 3a083c78896e
   - c24765926774
   - d1f7fa5bb3cb
+  - fbba3e57c350
   - fed9d0350d72
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -323,6 +331,7 @@ tools:
 - name: slamdunk
   owner: iuc
   revisions:
+  - 0459d98045c5
   - 141f65f7c7c8
   - 5a26589d95ad
   - 8b62f89924a7
@@ -341,6 +350,7 @@ tools:
   owner: iuc
   revisions:
   - 04936df18de3
+  - 0cb5796ccfa7
   - 24e94d84adc9
   - 55cf05b65ad5
   - ab87da55fe61
@@ -379,6 +389,7 @@ tools:
   - d2bc35f3d1c5
   - d84caa5a98ad
   - db1f362cca3e
+  - f43f0ca95a07
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: trinity_abundance_estimates_to_matrix
@@ -389,6 +400,7 @@ tools:
   - 442e3696c634
   - 59fff1388bc2
   - 81a4697677e7
+  - 8b7448d99b7d
   - a009c96c5c18
   - ba3720d7e68b
   - bcc5f03f1900
@@ -429,6 +441,7 @@ tools:
   - a35cba31d904
   - a5ec0e79a93a
   - aa38fa8c5815
+  - c670b8b67800
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: trinity_gene_to_trans_map
@@ -453,6 +466,7 @@ tools:
   - 0bcc35b10569
   - 1906cb429215
   - 206a71a69161
+  - 6d005443b243
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: mirdeep2_mapper

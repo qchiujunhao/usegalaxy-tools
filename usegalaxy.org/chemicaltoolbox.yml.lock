@@ -850,6 +850,7 @@ tools:
 - name: qcxms_neutral_run
   owner: recetox
   revisions:
+  - 3862d7fc6f7e
   - 475bbef634d4
   - c40784ec1fdd
   tool_panel_section_id: chemicaltoolbox

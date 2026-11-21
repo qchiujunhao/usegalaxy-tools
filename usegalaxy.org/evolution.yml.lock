@@ -46,6 +46,7 @@ tools:
   - a9d66dc6a767
   - b38f620a3628
   - ccebde0e2d61
+  - fa40cbd6f751
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution
 - name: tn93_filter
@@ -55,6 +56,7 @@ tools:
   - 1779a96f1d7c
   - 1aa73004ba9b
   - ba95715078c9
+  - bdbed8e581c6
   - cf50aeb956f2
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution
@@ -73,6 +75,7 @@ tools:
   revisions:
   - 1d2ec0b0a0a7
   - 4e68161336da
+  - 5879d2d024a2
   - 84849140a3bc
   - bdaadfd0c843
   - c176164dc8a5
