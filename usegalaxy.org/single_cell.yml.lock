@@ -36,6 +36,7 @@ tools:
   - 6c145a6868cc
   - 9d33775ec67d
   - a8d291df615d
+  - a9160efa16c8
   - c0a80a16560f
   - c5d3684f7c4c
   - ca086f24422f
@@ -57,6 +58,7 @@ tools:
   - 5b3c1679d29b
   - 64388be6d510
   - 72a6bebab2a5
+  - 8abe1b403a5c
   - 8cb783c81905
   - 92a189c299d4
   - a03ff8633507
@@ -112,6 +114,7 @@ tools:
 - name: scanpy_remove_confounders
   owner: iuc
   revisions:
+  - 1849d1a3b69e
   - 215733a383f2
   - 458d4ab0f894
   - 458e8f43a775
@@ -519,6 +522,7 @@ tools:
   owner: iuc
   revisions:
   - 5c9b16bdbd5e
+  - 9e80ebd12099
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: retrieve_scxa
@@ -731,6 +735,7 @@ tools:
   owner: iuc
   revisions:
   - 4ec52a83ec82
+  - bae409fc946d
   - dde965aee073
   - f04c81e68e86
   tool_panel_section_id: single_cell
@@ -741,6 +746,7 @@ tools:
   - 74fa68f4e579
   - 7704fb998596
   - 7c728a178c4d
+  - ade6d8b67576
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_plot
@@ -757,6 +763,7 @@ tools:
   - 156e5b07369a
   - 5d5fe5659252
   - 6bccf5f85f92
+  - 923f6a60c92e
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_reduce_dimension
