@@ -135,6 +135,7 @@ tools:
 - name: argnorm
   owner: iuc
   revisions:
+  - 9125d3f45f4d
   - d8e95a03321a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -142,6 +143,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - a43aa384ead4
   - bd5630d401cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -173,5 +175,6 @@ tools:
   owner: iuc
   revisions:
   - 321ceb58023e
+  - d0f5d9821854
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
