@@ -7,6 +7,7 @@ tools:
   owner: iuc
   revisions:
   - 9e3e80cc4ad4
+  - b7c5344b12de
   - e022dff952df
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -16,12 +17,14 @@ tools:
   - 1f04936b96f3
   - 822954de3f59
   - b8c00ce5dfa0
+  - d55d7058fb39
   - d5887ace0dd4
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: miniasm
   owner: iuc
   revisions:
+  - 691bdc4cc8f0
   - 8dee0218ac7d
   - b799a615995d
   tool_panel_section_id: assembly
@@ -51,11 +54,13 @@ tools:
   - 1b1cf0c96501
   - 72472698a2df
   - a3b35edea53a
+  - baeffe7bfe47
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: megahit
   owner: iuc
   revisions:
+  - 9942ffb676fe
   - ab208c87d973
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -63,6 +68,7 @@ tools:
   owner: nml
   revisions:
   - 04d81e5f25e9
+  - 5381d83e9492
   - f192c2fbe13f
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -141,6 +147,7 @@ tools:
   - 408ece2e4647
   - 8e422c873d02
   - 936a1edffce8
+  - 9491362ac1cd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: purge_dups
