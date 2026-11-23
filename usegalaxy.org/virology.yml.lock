@@ -76,6 +76,7 @@ tools:
   - 6606a8c97889
   - 7bd020da0ce5
   - 86a20ae274fc
+  - 8b20bc80ebf4
   - a250929be21b
   - c092052ed673
   - c9ef01b1cfba
@@ -105,6 +106,7 @@ tools:
   owner: iuc
   revisions:
   - 2a3a00c1fa0a
+  - b68ff9393fb6
   tool_panel_section_id: virology
   tool_panel_section_label: Virology
 - name: pangolin
@@ -152,6 +154,7 @@ tools:
   - 290071465e6e
   - 877e80114d25
   - 92b9fd5f1f9f
+  - a56510b3c4ed
   tool_panel_section_id: virology
   tool_panel_section_label: Virology
 - name: vibrant
