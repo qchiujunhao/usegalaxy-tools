@@ -117,6 +117,7 @@ tools:
   - 09d6e4693887
   - 2953c43180c0
   - 435b157bed6d
+  - 4e7fc9795034
   - 606542a18f82
   - 791f73caa0c8
   - e0e2fd665102
@@ -151,6 +152,7 @@ tools:
 - name: lofreq_indelqual
   owner: iuc
   revisions:
+  - 07cd2a0e530d
   - 2ae554b4bcca
   - 354b534eeab7
   - 426d707dfc47
@@ -169,6 +171,7 @@ tools:
   - cdaab621d454
   - dbd9f2db9ed8
   - ecd80c7c3886
+  - facfecd498e4
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: basil
@@ -342,6 +345,7 @@ tools:
   revisions:
   - 24271361028f
   - 7acb00fc980a
+  - 83b6fef5e509
   - a2c1c52a7e47
   - a9b4d7761b46
   - cf01dd6c6b1f

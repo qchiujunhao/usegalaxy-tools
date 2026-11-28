@@ -6,6 +6,7 @@ tools:
 - name: mothur_taxonomy_to_krona
   owner: iuc
   revisions:
+  - 599a975715e3
   - 696ed5c6d1f0
   - 71e7d93a593e
   - a97107cc4c93
@@ -19,6 +20,7 @@ tools:
   revisions:
   - 6e3d1e4c9786
   - 9696e3b3a098
+  - ad823354b686
   - ccba5bd49390
   - d5610390efaa
   tool_panel_section_id: mothur
@@ -28,6 +30,7 @@ tools:
   revisions:
   - 12e856482d26
   - 1f9f30aed284
+  - 4b31a92bca93
   - bdb4a58a2025
   - d531f28e8266
   - dd4546e98188
@@ -42,6 +45,7 @@ tools:
   - 583af69719db
   - ac151f3a8f94
   - ba2b321b6b64
+  - eed489dde742
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
 - name: mothur_biom_info
@@ -137,6 +141,7 @@ tools:
   - 2344ed181ae6
   - 2857a688a7e9
   - 72be09dfd803
+  - 76febd1bac96
   - '782564664543'
   - de4801f05e5e
   tool_panel_section_id: mothur
@@ -159,6 +164,7 @@ tools:
   - 4af62516059b
   - 600c14c6dcc5
   - 609770e516fa
+  - 87bde8e578fe
   - d7ea2d0b4917
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
@@ -239,6 +245,7 @@ tools:
   - 12507ed33710
   - 51d7c2486a68
   - 8b42e4ec39df
+  - a1cfc8abc234
   - f3a65ee4bfda
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
@@ -339,6 +346,7 @@ tools:
   - 3fac82ad3f01
   - 498dc0671d9e
   - 7c5b7dddd02e
+  - 7e119e16cb77
   - b0748ba87fba
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
@@ -346,6 +354,7 @@ tools:
   owner: iuc
   revisions:
   - 11795a719c90
+  - 4a871819689b
   - 56ad298415d8
   - ad18e40e8569
   - ea7b70e1a61b
@@ -496,6 +505,7 @@ tools:
 - name: mothur_normalize_shared
   owner: iuc
   revisions:
+  - 10178bdd6d28
   - 5e94c135ef00
   - a89fbfe8386f
   - a8bc62f05cfa
@@ -507,6 +517,7 @@ tools:
   revisions:
   - 35a66c1fae5e
   - 3cc04a065490
+  - 6bd6b4347d21
   - 98f1cc2bc428
   - a81680d1db78
   - f36dc56e8a2b
@@ -546,6 +557,7 @@ tools:
   revisions:
   - 26ddda2d2462
   - 4484fe89e1a5
+  - 6927162be300
   - b562d71b9508
   - ec717c8dce9b
   tool_panel_section_id: mothur
@@ -574,6 +586,7 @@ tools:
   owner: iuc
   revisions:
   - 17b471efdc40
+  - 9047997faa39
   - b0f1e033e18d
   - bcc475f1af4a
   - d1a9a6260101
@@ -606,6 +619,7 @@ tools:
   - 23c1af22331b
   - 9a074f55579e
   - a33258dc5bf8
+  - c76239821908
   - d20ab289b0c0
   - d56e5a7a9cef
   tool_panel_section_id: mothur
@@ -674,6 +688,7 @@ tools:
   owner: iuc
   revisions:
   - 3612e382d294
+  - 4f2f45acb7da
   - 9b600578c108
   - dd84878a5f99
   - ea1a32c7927e
@@ -762,6 +777,7 @@ tools:
 - name: mothur_get_seqs
   owner: iuc
   revisions:
+  - 59b850a088af
   - 8b8c7cf6738c
   - c8b640a7aea1
   - f31e3b8f2336
@@ -772,6 +788,7 @@ tools:
 - name: mothur_get_sabund
   owner: iuc
   revisions:
+  - 0c487ac45b23
   - 132ec4ee9d17
   - a41ba5f5f6b8
   - c550ce2ebe1f
@@ -1055,6 +1072,7 @@ tools:
   revisions:
   - 7f212a2a4a3b
   - a52aa1bdc760
+  - a9eb55ac5f24
   - acfb60d5d435
   - c9d3eed082fc
   - d3b196069f6f
@@ -1115,6 +1133,7 @@ tools:
   owner: iuc
   revisions:
   - 20e764494303
+  - 75546bbc441b
   - 7ad44d831a1f
   - a735e855f28f
   - ad924a6328cc
@@ -1216,6 +1235,7 @@ tools:
   - 79255ca0b19a
   - 983b440a26b2
   - b6e0f8a9bc6b
+  - c60c8086a5bc
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
 - name: mothur_chimera_bellerophon

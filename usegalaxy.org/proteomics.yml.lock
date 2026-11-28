@@ -90,6 +90,7 @@ tools:
   revisions:
   - 06cca574e337
   - 25529df60a81
+  - 2bfbe496fa7c
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: openms_featurefindermultiplex

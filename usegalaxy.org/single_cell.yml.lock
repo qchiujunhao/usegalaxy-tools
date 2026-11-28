@@ -188,6 +188,7 @@ tools:
   revisions:
   - 3d748954434b
   - 43cb7b5a6fe7
+  - 4f52a1835164
   - 7e8c677a7b71
   - 8db95f488f0f
   - 9ef202055d5c
@@ -716,12 +717,14 @@ tools:
   revisions:
   - 0db84eba4b55
   - 51eb02d9b17a
+  - 6f9b445c3e13
   - b70382a113e1
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_create
   owner: iuc
   revisions:
+  - 3672004ffdfb
   - ac5f8c583cba
   - af8bdeb89691
   - b9e7b804ec67
@@ -730,6 +733,7 @@ tools:
 - name: seurat_data
   owner: iuc
   revisions:
+  - 4a9e77e48da6
   - 4ec52a83ec82
   - dde965aee073
   - f04c81e68e86
@@ -741,12 +745,14 @@ tools:
   - 74fa68f4e579
   - 7704fb998596
   - 7c728a178c4d
+  - ceda1673f63d
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_plot
   owner: iuc
   revisions:
   - 6154937135c7
+  - b2818b72ebf9
   - c520f64ffd57
   - fee4b4eb0ef5
   tool_panel_section_id: single_cell
@@ -757,11 +763,13 @@ tools:
   - 156e5b07369a
   - 5d5fe5659252
   - 6bccf5f85f92
+  - 7505f6dae719
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_reduce_dimension
   owner: iuc
   revisions:
+  - 426a94b51916
   - 46ed93e8da30
   - 54ee3884e7ca
   - c15978515ff0

@@ -11,6 +11,7 @@ tools:
   - 58c35179ebf0
   - 708348a17fa1
   - d6f5fa4ee473
+  - df0082f25f47
   - e827f9aae031
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -38,6 +39,7 @@ tools:
   - 6c19daec423d
   - b12d81af0291
   - f4af63aaf57a
+  - f6ff91cb3120
   - fbf98f24097b
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -52,6 +54,7 @@ tools:
   - 6f66ae7c5f7a
   - 90d16db017d7
   - a37612abf7f9
+  - ce3c9c1ac7ca
   - ce44c6f2ba38
   - ea04b737afa0
   - f3a5f075498f
@@ -63,6 +66,7 @@ tools:
   revisions:
   - 62adf13b86ea
   - 74ec758e63a4
+  - 98fd01004439
   - 9a7c5b6d8f1e
   - 9fd8b69e6e68
   - b47c006d90c5
@@ -79,6 +83,7 @@ tools:
   - 914cfcba0ec8
   - 92198ab2345f
   - ae618321f34a
+  - c44f3c61f41c
   - cbf488da3b2c
   - cef79931dda5
   - eba36e001f45
@@ -87,6 +92,7 @@ tools:
 - name: salmon
   owner: bgruening
   revisions:
+  - 0080a42718be
   - 15cd64d7c58b
   - 30d90b851d3c
   - 49121db48873
@@ -103,6 +109,7 @@ tools:
   - 40985510cd98
   - 4f9c4e6566e5
   - 60f888039fb2
+  - a2b65af988d2
   - c971db6f0fe5
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -113,6 +120,7 @@ tools:
   - 5ae5c312d718
   - 87c11c05d238
   - ce5d418183c5
+  - e4eb8c4a82f6
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: sailfish
@@ -127,6 +135,7 @@ tools:
   - 43798b4caee0
   - 602de62d995b
   - 8b3e3657034e
+  - 8f51a7500540
   - ef2ad746b589
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -143,6 +152,7 @@ tools:
   - b060944b3989
   - cd9874cb9019
   - d027d1f4984e
+  - eaeb33f475e9
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: rgrnastar
@@ -249,6 +259,7 @@ tools:
   owner: iuc
   revisions:
   - 2b80a2596064
+  - 5a69f2ff055e
   - 704c401e0afb
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -389,6 +400,7 @@ tools:
   - 442e3696c634
   - 59fff1388bc2
   - 81a4697677e7
+  - 8b7448d99b7d
   - a009c96c5c18
   - ba3720d7e68b
   - bcc5f03f1900
@@ -453,6 +465,7 @@ tools:
   - 0bcc35b10569
   - 1906cb429215
   - 206a71a69161
+  - 6d005443b243
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: mirdeep2_mapper
@@ -499,6 +512,7 @@ tools:
 - name: chira_extract
   owner: iuc
   revisions:
+  - 44c50b0714d9
   - 73d2b7a8d94b
   - e7ee3aadf1a5
   tool_panel_section_id: rna_seq
@@ -506,6 +520,7 @@ tools:
 - name: chira_map
   owner: iuc
   revisions:
+  - 4ac1b4148127
   - 7925dd016f53
   - 95ddee768b61
   tool_panel_section_id: rna_seq
@@ -522,6 +537,7 @@ tools:
   revisions:
   - 06ac35533793
   - 38d2b1f38992
+  - a2bba8b2db55
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: blockbuster

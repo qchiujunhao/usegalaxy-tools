@@ -58,6 +58,7 @@ tools:
   revisions:
   - 45a386d18509
   - 640e0e45518a
+  - d637779642e3
   - e9cf8387e386
   - f8320df1866b
   - ff1af7bac1cb
@@ -141,6 +142,7 @@ tools:
   - 4630448a0d88
   - 87eb9c58cd19
   - a315574104c6
+  - bdf5f2a9128c
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_hicconvertformat
@@ -275,6 +277,7 @@ tools:
 - name: hicexplorer_hicnormalize
   owner: bgruening
   revisions:
+  - 200bd8e07e72
   - 2aa5b6b65197
   - 5e83c077e31d
   - 6d042c96aceb

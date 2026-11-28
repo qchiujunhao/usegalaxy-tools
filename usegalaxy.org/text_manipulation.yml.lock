@@ -91,6 +91,7 @@ tools:
   revisions:
   - 2040e4c2750a
   - 372967836e98
+  - 6428adb323eb
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
 - name: gff3_rebase
@@ -156,6 +157,7 @@ tools:
   - 33d61c89fb8d
   - 3a6b78c39dca
   - 83069b38aa85
+  - a8e9456dbead
   - cf34c344508d
   - cf4397560712
   tool_panel_section_id: text_manipulation
@@ -181,6 +183,7 @@ tools:
 - name: filter_tabular
   owner: iuc
   revisions:
+  - 26fc6cf774d4
   - 34d29339abab
   - 4d5aae46f850
   - 557ec8d7087d
@@ -207,6 +210,7 @@ tools:
   revisions:
   - 10ef1bf99074
   - 156d0908e232
+  - 2dfd91f7b71d
   - be2d899bf34a
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
