@@ -175,6 +175,7 @@ tools:
 - name: repeat_masker
   owner: bgruening
   revisions:
+  - 31763a56f1d7
   - 39b40a9a6296
   - 3f987772e283
   - 438f65cb1d14
@@ -217,6 +218,7 @@ tools:
   revisions:
   - 1f5641a52664
   - 31812e7a1315
+  - 96de1ae86e52
   - ded48b36f3b7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -421,6 +423,7 @@ tools:
   - 1f89eeba299a
   - 3d9253661554
   - 54acd5139cab
+  - 630e1f44a843
   - 640c0b8cc8bf
   - 948903a8555d
   - d0632d8bac6a
@@ -672,6 +675,7 @@ tools:
 - name: coreprofiler_allele_calling
   owner: iuc
   revisions:
+  - 3835ed53fdc9
   - b781bb77a985
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -696,6 +700,7 @@ tools:
 - name: orthofinder_onlygroups
   owner: iuc
   revisions:
+  - 74b030131a7b
   - b6ec80429d54
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -708,6 +713,7 @@ tools:
 - name: hmmer_alimask
   owner: iuc
   revisions:
+  - c18dbffbc454
   - e3e5f208e93c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -739,6 +745,7 @@ tools:
   owner: iuc
   revisions:
   - 34b09461bf87
+  - 64271199b179
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer_hmmscan
@@ -768,6 +775,7 @@ tools:
 - name: hmmer_nhmmscan
   owner: iuc
   revisions:
+  - e20829923d8b
   - fb1305d0d1c6
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation

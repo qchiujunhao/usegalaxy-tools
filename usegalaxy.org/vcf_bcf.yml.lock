@@ -14,6 +14,7 @@ tools:
 - name: vcfdistance
   owner: devteam
   revisions:
+  - 359c94784f55
   - 48e458c721b3
   - 5822b40f3037
   tool_panel_section_id: vcf_bcf
@@ -29,6 +30,7 @@ tools:
   owner: devteam
   revisions:
   - 166c4f50525f
+  - 2116f9563368
   - 6f6bf10618d7
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -45,6 +47,7 @@ tools:
   owner: devteam
   revisions:
   - 12b570dd0bc5
+  - 14cf0e143a0b
   - 6257ee3b50d3
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -65,6 +68,7 @@ tools:
 - name: vcfhethom
   owner: devteam
   revisions:
+  - 71f5bce189c5
   - 8254e0fe7358
   - b07ef36cf7e6
   tool_panel_section_id: vcf_bcf
@@ -74,6 +78,7 @@ tools:
   revisions:
   - a60ae8af21a1
   - f5653ed90dfd
+  - fb57e663bc4a
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfgeno2haplo
@@ -94,6 +99,7 @@ tools:
   owner: devteam
   revisions:
   - 11f62f071125
+  - 5f945f9e1207
   - fc5a64fdd5b2
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -137,11 +143,13 @@ tools:
   revisions:
   - 9edfe5145ba8
   - aea8e90ad788
+  - e4778e5a5d43
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfannotategenotypes
   owner: devteam
   revisions:
+  - 3eacf0e5afd4
   - 70bc6ced57f7
   - 84959112d9a6
   tool_panel_section_id: vcf_bcf
@@ -250,6 +258,7 @@ tools:
   owner: iuc
   revisions:
   - 1da985043619
+  - 52e80e381c79
   - 8899a6d50699
   - 9f69e7d58d03
   - ae68ceb4cca3
@@ -265,6 +274,7 @@ tools:
   owner: iuc
   revisions:
   - 0117c6d2ab96
+  - 166d21fae98e
   - 277719af4dd7
   - 3502f0e1f0e4
   - 46fcafba49ec
@@ -485,6 +495,7 @@ tools:
   - e0a856def0b0
   - eed37e76acd1
   - f544f71adb73
+  - f85eb1b3d863
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_mpileup
@@ -496,6 +507,7 @@ tools:
   - 43f0efd586c4
   - 56556e1267de
   - 5660b21a0dbd
+  - 61b171ed53b5
   - a0c219ecb5e7
   - bf533509c5b6
   - ce9396ddcb2b
@@ -530,6 +542,7 @@ tools:
   - 76fe872413c2
   - 8abfcd1a6949
   - a730269af659
+  - b50ea3467c57
   - bb3d20a58f5b
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -581,6 +594,7 @@ tools:
 - name: bcftools_norm
   owner: iuc
   revisions:
+  - 1b9d272d667b
   - 1ca7418e46ee
   - 271965b55437
   - 5226c31ac6d3

@@ -94,6 +94,7 @@ tools:
 - name: fastx_clipper
   owner: devteam
   revisions:
+  - 5bd863921cc5
   - 736b8f6ee456
   - 90858c306551
   - b8658f852bc7
@@ -137,6 +138,7 @@ tools:
 - name: fastx_artifacts_filter
   owner: devteam
   revisions:
+  - 016529f651dc
   - 34edfa69c149
   - 529bccd5e4a1
   - 567d5b3c52b1
@@ -230,6 +232,7 @@ tools:
   - 4ac14b275aca
   - 5b87038565bb
   - 7861f3b10c68
+  - 8a2a1f60d8a9
   - e06d41f3ed3e
   - e30352e889fe
   tool_panel_section_id: fasta_fastq
@@ -250,6 +253,7 @@ tools:
   - 06934412f56d
   - 10b75444feae
   - '144275714590'
+  - 242f90a25c1d
   - 81a9090d6df3
   - ff7d49ec777f
   tool_panel_section_id: fasta_fastq
@@ -291,6 +295,7 @@ tools:
   - 07497255281e
   - 72494a86e047
   - 7ce1891db6f5
+  - cd11b0508361
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastq_trimmer
@@ -392,6 +397,7 @@ tools:
   revisions:
   - 1add611a6018
   - 71f649c23021
+  - aa95d55b672f
   - bf04bd405d5b
   - d3f58a0dc09d
   tool_panel_section_id: fasta_fastq

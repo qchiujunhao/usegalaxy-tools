@@ -13,12 +13,14 @@ tools:
 - name: cwpair2
   owner: iuc
   revisions:
+  - 9a503d716d81
   - c4b926c9831c
   tool_panel_section_id: chip_seq
   tool_panel_section_label: ChIP-seq
 - name: genetrack
   owner: iuc
   revisions:
+  - 363240b62158
   - b41a4bb828a3
   tool_panel_section_id: chip_seq
   tool_panel_section_label: ChIP-seq
@@ -28,6 +30,7 @@ tools:
   - 424aefbd7777
   - 640d3af5d833
   - 86e2413cf3f8
+  - d8362a868940
   tool_panel_section_id: chip_seq
   tool_panel_section_label: ChIP-seq
 - name: sicer
